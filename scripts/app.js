@@ -1,7 +1,5 @@
-// Importar el modelo User
 import { User } from './models/user.js';
 
-// Función para cargar y mostrar los datos
 document.addEventListener('DOMContentLoaded', () => {
     fetch('./scripts/data/users.json')
         .then(response => response.json())
@@ -12,10 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
         .catch(error => console.error('Error loading JSON data:', error));
 });
 
-// Función para renderizar la tabla con los usuarios
 function renderUsersTable(users) {
     const tableBody = document.querySelector('#data-table tbody');
-    tableBody.innerHTML = ''; // Limpiar cualquier contenido previo
+    tableBody.innerHTML = '';
     users.forEach(user => {
         const row = document.createElement('tr');
         row.innerHTML = `
@@ -23,6 +20,9 @@ function renderUsersTable(users) {
             <td>${user.name}</td>
             <td>${user.age}</td>
         `;
+        row.addEventListener('click', () => {
+            window.location.href = `user-details.html?id=${user.id}`;
+        });
         tableBody.appendChild(row);
     });
 }
