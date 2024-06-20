@@ -22,6 +22,7 @@ function renderUsersTable(users) {
         `;
         row.addEventListener('click', () => {
             window.location.href = `user-details.html?id=${user.id}`;
+            console.log("clikado")
         });
         tableBody.appendChild(row);
     });
