@@ -3,24 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON Data Table</title>
+    <title>User Data Table</title>
+    <link rel="stylesheet" href="assets/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Data Table</h1>
-    <table id="data-table">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Name88888</th>
-                <th>Age</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Data will be inserted here by JavaScript -->
-        </tbody>
-    </table>
+    <div class="container">
+        <h1 class="text-center my-4">User Data Table</h1>
+        <table id="data-table" class="table table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
 
-    <script src="app.js"></script>
+    <script type="module" src="scripts/app.js"></script>
 </body>
 </html>
