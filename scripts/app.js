@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('./scripts/data/users.json')
         .then(response => response.json())
         .then(data => {
+            console.log(data)
             const users = data.map(user => new User(user.id, user.name, user.age));
             renderUsersTable(users);
         })
