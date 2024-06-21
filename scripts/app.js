@@ -1,12 +1,12 @@
 import { User } from './models/user.js';
 
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('./scripts/data/users.json')
+    fetch('./scripts/data/leones.json')
         .then(response => response.json())
         .then(data => {
             console.log(data)
-            const users = data.map(user => new User(user.id, user.name, user.age));
-            renderUsersTable(users);
+            //const users = data.map(user => new User(user.id, user.name, user.age));
+            //renderUsersTable(users);
         })
         .catch(error => console.error('Error loading JSON data:', error));
 });
