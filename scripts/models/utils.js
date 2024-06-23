@@ -8,7 +8,7 @@ class DataGuild{
     }
 }
 class Guild{
-    constructor(id, name, rank, level, membersNum, description, members, date){
+    constructor(id, name, rank, level, membersNum, description, members, date, prestige){
         this.id = id;
         this.name = name
         this.rank = rank
@@ -17,6 +17,7 @@ class Guild{
         this.description = description
         this.members = members
         this.date = date
+        this.prestige = prestige
     }
     getName(){
         console.log("HOla mundo nuevo")

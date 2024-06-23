@@ -19,6 +19,10 @@ th, td {
 th {
     background-color: #f4f4f4;
 }
+.table-hover tbody tr:hover {
+    background-color: #881515; /* Color de fondo al hacer hover */
+    cursor: pointer; /* Cambia el cursor al pasar sobre la fila */
+}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -155,7 +159,15 @@ body{background:#211A15;font-family:'Abel', sans-serif;}
 .b-box p{margin:0 0 12px 0;line-height:1.5em;font-size:15px;color:#000000;font-family:Helvetica, sans-serif;}
 .b-box p a{color:#21759b;}
 .b-box span{font-weight:bold;}
-.table{display:table;font-size:12px;border-bottom:1px solid #564437;color:#c3aea2;margin:3em auto;}
+.table{
+    display:table;
+    font-size:15px;
+    font-weight: bold;
+    border-bottom:1px solid #564437;
+    color:#c3aea2;
+    margin:3em auto;
+}
+
 .table-head{display:table-header-group;}
 .table-head .column{background:#564437;color:#c3aea2;border-right:1px solid #564437;border-bottom:none;text-align:center;}
 .row{display:table-row;}

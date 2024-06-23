@@ -1,0 +1,1077 @@
+{
+  "length": 10044,
+  "rankings": [
+    {
+      "rank": 51,
+      "player": {
+        "player_id": 1355858,
+        "name": "Dan D.",
+        "avatar": "addon_portrait_id_259",
+        "is_neighbor": true,
+        "city_name": "Tamriel",
+        "clan_id": 1801,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1801,
+        "name": "ɢᴇɴ'ᴇɪ ʀʏᴏᴅᴀɴ",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 428059717,
+      "battles": 124132,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 52,
+      "player": {
+        "player_id": 848897226,
+        "name": "Cahr",
+        "avatar": "addon_portrait_id_carnival_male",
+        "is_friend": true,
+        "city_name": "Trecia",
+        "clan_id": 1898,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1898,
+        "name": "𝔸 𝔹 𝕊 𝔼 ℕ 𝕊",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 418401881,
+      "battles": 127586,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 53,
+      "player": {
+        "player_id": 491525,
+        "name": "Gato Chuco",
+        "avatar": "addon_portrait_id_jones",
+        "is_neighbor": true,
+        "city_name": "RENTON",
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 412004273,
+      "battles": 85865,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 54,
+      "player": {
+        "player_id": 446301,
+        "name": "ALMENDRIKA",
+        "avatar": "addon_portrait_id_history24_1",
+        "is_neighbor": true,
+        "city_name": "Ciudad de ALMENDRIKA",
+        "clan_id": 9,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 9,
+        "name": "Clan de los D. 💮",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 405533002,
+      "battles": 79439,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 55,
+      "player": {
+        "player_id": 1390309,
+        "name": "RubeNiC",
+        "avatar": "addon_portrait_id_484",
+        "city_name": "RNC",
+        "clan_id": 55,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 55,
+        "name": "El Kraken",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 402326167,
+      "battles": 105335,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 56,
+      "player": {
+        "player_id": 612691,
+        "name": "Vortigen",
+        "avatar": "addon_portrait_id_hero_crossbow",
+        "is_neighbor": true,
+        "city_name": "Ciudad de Vortigen",
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 397914731,
+      "battles": 89490,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 57,
+      "player": {
+        "player_id": 984440,
+        "name": "Jazon",
+        "avatar": "addon_portrait_id_gex5_patlee",
+        "city_name": "Jazon",
+        "clan_id": 514,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 514,
+        "name": "SIN MIEDO",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 386644750,
+      "battles": 79552,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 58,
+      "player": {
+        "player_id": 962902,
+        "name": "CERA the Great",
+        "avatar": "addon_portrait_id_castle_system_lothar",
+        "is_friend": true,
+        "is_neighbor": true,
+        "city_name": "Ciudad de CERA the Great",
+        "clan_id": 3,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 384590549,
+      "battles": 79607,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 59,
+      "player": {
+        "player_id": 593137,
+        "name": "GreatAlicia",
+        "avatar": "portrait_id_90",
+        "is_friend": true,
+        "city_name": "Villa Puchipuch",
+        "clan_id": 23,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 23,
+        "name": "☣DARK ARMY☣️",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 382471689,
+      "battles": 83341,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 60,
+      "player": {
+        "player_id": 1057051,
+        "name": "Zinnia",
+        "avatar": "addon_portrait_id_cop_vikings_gudrid",
+        "is_neighbor": true,
+        "city_name": "Ciudad de Zinnia",
+        "clan_id": 3,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 379588114,
+      "battles": 89333,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 61,
+      "player": {
+        "player_id": 1263559,
+        "name": "Káizer Gun el Implacable",
+        "avatar": "addon_portrait_id_405",
+        "is_neighbor": true,
+        "city_name": "VÓRTICE",
+        "clan_id": 3,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 366941104,
+      "battles": 110597,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 62,
+      "player": {
+        "player_id": 1226516,
+        "name": "Genio",
+        "avatar": "addon_portrait_id_405",
+        "city_name": "Olimpo",
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 362398522,
+      "battles": 116578,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 63,
+      "player": {
+        "player_id": 848937764,
+        "name": "Juanka89",
+        "avatar": "addon_portrait_id_carnival_male",
+        "is_neighbor": true,
+        "city_name": "Ciudad de Juanka89",
+        "clan_id": 1801,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1801,
+        "name": "ɢᴇɴ'ᴇɪ ʀʏᴏᴅᴀɴ",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 351796692,
+      "battles": 74554,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 64,
+      "player": {
+        "player_id": 284116,
+        "name": "Iskander",
+        "avatar": "addon_portrait_id_summer_conquistador",
+        "city_name": "Iskandretta",
+        "clan_id": 23,
+        "era": "SpaceAgeVenus",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 23,
+        "name": "☣DARK ARMY☣️",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 350855375,
+      "battles": 121454,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 65,
+      "player": {
+        "player_id": 1010211,
+        "name": "rodro",
+        "avatar": "addon_portrait_id_484",
+        "is_friend": true,
+        "is_neighbor": true,
+        "is_guild_member": true,
+        "city_name": "Argentina",
+        "clan_id": 372,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 347169126,
+      "battles": 100973,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 66,
+      "player": {
+        "player_id": 849155439,
+        "name": "silentkev",
+        "avatar": "portrait_id_203",
+        "is_neighbor": true,
+        "city_name": "Ciudad de silentkev",
+        "clan_id": 500,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 500,
+        "name": "Nomadas",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 341108358,
+      "battles": 111068,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 67,
+      "player": {
+        "player_id": 937534,
+        "name": "Ryyuma",
+        "avatar": "addon_portrait_id_318",
+        "is_friend": true,
+        "city_name": "KoF",
+        "clan_id": 1983,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1983,
+        "name": "Tokyo",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 332660272,
+      "battles": 107422,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 68,
+      "player": {
+        "player_id": 1215631,
+        "name": "Alejandro el poderoso.",
+        "avatar": "portrait_id_21",
+        "is_neighbor": true,
+        "city_name": "Alejandro",
+        "clan_id": 838,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 329356930,
+      "battles": 89704,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 69,
+      "player": {
+        "player_id": 849083317,
+        "name": "Johec",
+        "avatar": "addon_portrait_id_584",
+        "is_neighbor": true,
+        "city_name": "Ciudad de JoHec",
+        "clan_id": 3,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 326768319,
+      "battles": 71767,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 70,
+      "player": {
+        "player_id": 1191187,
+        "name": "Pablo maximo",
+        "avatar": "addon_portrait_id_castle_system_ansley",
+        "is_friend": true,
+        "city_name": "🏰MAXIMUS TOWN",
+        "clan_id": 5,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 5,
+        "name": ">HALCONES<",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 321264544,
+      "battles": 77855,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 71,
+      "player": {
+        "player_id": 1061046,
+        "name": "Don Macario",
+        "avatar": "addon_portrait_id_yuri",
+        "city_name": "Gondor",
+        "clan_id": 1189,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1189,
+        "name": "DICTADURA🔥 SENSUAL",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 313620240,
+      "battles": 128023,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 72,
+      "player": {
+        "player_id": 292767,
+        "name": "Papa win",
+        "avatar": "portrait_id_125",
+        "is_neighbor": true,
+        "city_name": "Ciudad de Papa win",
+        "clan_id": 2,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 2,
+        "name": "⚔AFRICAN KORPS⚔",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 307146110,
+      "battles": 69139,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 73,
+      "player": {
+        "player_id": 848984479,
+        "name": "Dronte",
+        "avatar": "addon_portrait_id_gex5_quetzalli",
+        "city_name": "Bien Venidos!!!",
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 306470561,
+      "battles": 86413,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 74,
+      "player": {
+        "player_id": 1252977,
+        "name": "FELIPE Y LOS PEQUES",
+        "avatar": "addon_portrait_id_celeas",
+        "is_friend": true,
+        "city_name": "Ciudad de FELIPE Y LOS PEQUES",
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 305940843,
+      "battles": 72723,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 75,
+      "player": {
+        "player_id": 628019,
+        "name": "Yo 19 el generoso",
+        "avatar": "addon_portrait_id_castle_system_ansley",
+        "is_neighbor": true,
+        "city_name": "Ciudad de Yo 19 el generoso",
+        "clan_id": 838,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 302315228,
+      "battles": 83475,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 76,
+      "player": {
+        "player_id": 1016939,
+        "name": "Amero2",
+        "avatar": "addon_portrait_id_halloween_harlequin",
+        "is_neighbor": true,
+        "city_name": "AMEROSKY",
+        "clan_id": 59,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 59,
+        "name": "Mugiwaras Pirates",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 298841270,
+      "battles": 64422,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 77,
+      "player": {
+        "player_id": 849380197,
+        "name": "LUCAS 18",
+        "avatar": "addon_portrait_id_244",
+        "city_name": "BERLÍN ",
+        "clan_id": 3,
+        "era": "SpaceAgeVenus",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 298567367,
+      "battles": 75433,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 78,
+      "player": {
+        "player_id": 1437190,
+        "name": "Julián de Juliantla",
+        "avatar": "addon_portrait_id_pat24_5",
+        "city_name": "Jaramillo",
+        "clan_id": 838,
+        "era": "SpaceAgeVenus",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 290794924,
+      "battles": 83656,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 79,
+      "player": {
+        "player_id": 849114117,
+        "name": "dczjr1",
+        "avatar": "addon_portrait_id_318",
+        "city_name": "Ciudad de dczjr1",
+        "clan_id": 3,
+        "era": "SpaceAgeAsteroidBelt",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 289552801,
+      "battles": 99938,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 80,
+      "player": {
+        "player_id": 591338,
+        "name": "El reencuentro",
+        "avatar": "addon_portrait_id_bowl_jacklyn",
+        "is_neighbor": true,
+        "city_name": "Ciudad de El reencuentro",
+        "clan_id": 1263,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1263,
+        "name": "White eagles",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 289480749,
+      "battles": 79931,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 81,
+      "player": {
+        "player_id": 1090164,
+        "name": "doctor pepito",
+        "avatar": "portrait_id_92",
+        "city_name": "Ciudad de docto",
+        "clan_id": 3,
+        "era": "FutureEra",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 289203806,
+      "battles": 197205,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 82,
+      "player": {
+        "player_id": 849310146,
+        "name": "InodoroInoloro",
+        "avatar": "addon_portrait_id_cop_vikings_harald",
+        "city_name": "Ciudad de InodoroInoloro",
+        "clan_id": 3,
+        "era": "OceanicFuture",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 287336804,
+      "battles": 216238,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 83,
+      "player": {
+        "player_id": 1163721,
+        "name": "Fulvia 77 la Honesta",
+        "avatar": "addon_portrait_id_400",
+        "city_name": "Ciudad de Fulvia",
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 274978891,
+      "battles": 72506,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 84,
+      "player": {
+        "player_id": 849281851,
+        "name": "EGON1979",
+        "avatar": "addon_portrait_id_castle_system_royce",
+        "is_friend": true,
+        "city_name": "Ciudad de EGON1979",
+        "clan_id": 1422,
+        "era": "SpaceAgeVenus",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1422,
+        "name": "Los Antiguos Magos",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 269857391,
+      "battles": 78740,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 85,
+      "player": {
+        "player_id": 849010981,
+        "name": "FastFatima",
+        "avatar": "addon_portrait_id_sum24_5",
+        "is_neighbor": true,
+        "city_name": "Mascotas 5🐕🌹",
+        "clan_id": 9,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 9,
+        "name": "Clan de los D. 💮",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 268122861,
+      "battles": 66597,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 86,
+      "player": {
+        "player_id": 1295286,
+        "name": "Camila DG",
+        "avatar": "addon_portrait_id_halloween_medina",
+        "is_neighbor": true,
+        "city_name": "Ciudad de Camila DG",
+        "clan_id": 55,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 55,
+        "name": "El Kraken",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 267241231,
+      "battles": 57526,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 87,
+      "player": {
+        "player_id": 849283911,
+        "name": "El Michi",
+        "avatar": "addon_portrait_id_486",
+        "is_neighbor": true,
+        "city_name": "GatoSilva City",
+        "clan_id": 838,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 263523630,
+      "battles": 38029,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 88,
+      "player": {
+        "player_id": 1333934,
+        "name": "Ruperto III",
+        "avatar": "portrait_id_100",
+        "is_neighbor": true,
+        "city_name": "Rupertland",
+        "clan_id": 850,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 850,
+        "name": "Espartanos II",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 262134097,
+      "battles": 51888,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 89,
+      "player": {
+        "player_id": 1035961,
+        "name": "David II",
+        "avatar": "addon_portrait_id_318",
+        "is_neighbor": true,
+        "city_name": "Arakis prime",
+        "clan_id": 350,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 350,
+        "name": "BAJA RULERS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 259257715,
+      "battles": 47972,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 90,
+      "player": {
+        "player_id": 854078,
+        "name": "The Nick",
+        "avatar": "addon_portrait_id_312",
+        "city_name": "Ciudad de Dineg",
+        "clan_id": 1149,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1149,
+        "name": "ORION",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 257523095,
+      "battles": 82076,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 91,
+      "player": {
+        "player_id": 1401958,
+        "name": "Richi.one",
+        "avatar": "portrait_id_128",
+        "city_name": "Ciudad de Richi.one",
+        "clan_id": 55,
+        "era": "SpaceAgeVenus",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 55,
+        "name": "El Kraken",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 254226809,
+      "battles": 70164,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 92,
+      "player": {
+        "player_id": 1253569,
+        "name": "MAD-MAX",
+        "avatar": "addon_portrait_id_398",
+        "is_neighbor": true,
+        "city_name": "Mad-Maax City's",
+        "clan_id": 5,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 5,
+        "name": ">HALCONES<",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 250323555,
+      "battles": 83665,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 93,
+      "player": {
+        "player_id": 1027675,
+        "name": "Reknier",
+        "avatar": "addon_portrait_id_sinatra",
+        "city_name": "Eón",
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 248782472,
+      "battles": 36806,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 94,
+      "player": {
+        "player_id": 740767,
+        "name": "gorilita",
+        "avatar": "addon_portrait_id_castle_system_lothar",
+        "city_name": "Gorilita City!",
+        "clan_id": 1801,
+        "era": "SpaceAgeVenus",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 1801,
+        "name": "ɢᴇɴ'ᴇɪ ʀʏᴏᴅᴀɴ",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 246327625,
+      "battles": 32532,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 95,
+      "player": {
+        "player_id": 935784,
+        "name": "ChristopherLopez2011",
+        "avatar": "portrait_id_100",
+        "is_friend": true,
+        "city_name": "Ciudad de Chris",
+        "clan_id": 3,
+        "era": "SpaceAgeAsteroidBelt",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 239752010,
+      "battles": 69059,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 96,
+      "player": {
+        "player_id": 744312,
+        "name": "Nuevo Ares",
+        "avatar": "portrait_id_129",
+        "is_friend": true,
+        "city_name": "Hades ",
+        "clan_id": 811,
+        "era": "SpaceAgeAsteroidBelt",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 811,
+        "name": "Dioses  de guerra",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 238816467,
+      "battles": 79003,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 97,
+      "player": {
+        "player_id": 901910,
+        "name": "Dan wan kenobi",
+        "avatar": "addon_portrait_id_spring_yoshiro",
+        "is_neighbor": true,
+        "city_name": "South Gate",
+        "clan_id": 811,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 811,
+        "name": "Dioses  de guerra",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 234910060,
+      "battles": 60444,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 98,
+      "player": {
+        "player_id": 1258192,
+        "name": "Jimmito 17",
+        "avatar": "portrait_id_135",
+        "city_name": "Jimmy ",
+        "clan_id": 3,
+        "era": "FutureEra",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 3,
+        "name": "LEONES BLANCOS",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 232356547,
+      "battles": 140205,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 99,
+      "player": {
+        "player_id": 587061,
+        "name": "Redemption Angel",
+        "avatar": "portrait_id_164",
+        "city_name": "La Selva",
+        "clan_id": 811,
+        "era": "SpaceAgeJupiterMoon",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 811,
+        "name": "Dioses  de guerra",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 231848092,
+      "battles": 72317,
+      "__class__": "Ranking"
+    },
+    {
+      "rank": 100,
+      "player": {
+        "player_id": 848931810,
+        "name": "Arya",
+        "avatar": "portrait_id_35",
+        "is_friend": true,
+        "is_neighbor": true,
+        "city_name": "Ciudad de Cindie2",
+        "clan_id": 5,
+        "era": "SpaceAgeTitan",
+        "__class__": "Player"
+      },
+      "clan": {
+        "id": 5,
+        "name": ">HALCONES<",
+        "description": "",
+        "__class__": "Clan"
+      },
+      "points": 226465143,
+      "battles": 38012,
+      "__class__": "Ranking"
+    }
+  ],
+  "page": 1,
+  "category": {
+    "__enum__": "RankingCategory",
+    "value": "players"
+  },
+  "search_successful": true,
+  "__class__": "RankingList"
+}

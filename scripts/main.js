@@ -1,7 +1,4 @@
 import { User } from './models/user.js';
-
-
-
 import { Guild, Member } from './models/utils.js';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -11,61 +8,58 @@ document.addEventListener('DOMContentLoaded', () => {
     const params = new URLSearchParams(window.location.search);
     const userId = params.get('id');
     const clanId = params.get('clan');
-    if (userId) {
+    const MarioID = 387826
+    const DanielleID = 629473
+    const PsycoID = 1083722
+    const AquilesID = 310325
+    const XtxID = 891490
+
+    const userIds = [MarioID, DanielleID, PsycoID, AquilesID, XtxID]
+    const clanIds = ["B.Y.O.B.", "B.Y.O.B.", "LEONES BLANCOS", "Praetorian’s", "Praetorian’s"]
+    
         fetch('./scripts/data/guilds.json')
             .then(response => response.json())
             .then(data => {
-                const guildKeys = Object.keys(data);
-            if (guildKeys.length === 0) {
-                throw new TypeError('No guilds found in data');
-            }
-            guildKeys.forEach(key => {
-                const guild = data[key];
-                const { historial } = guild;
-
-                const firstHistorialKey = Object.keys(historial)[0];// obtiene el key del primero
-                const firstEntry = historial[firstHistorialKey]; // con el key obtiene de historial un objeto
+            clanIds.forEach((clan, index)=>{
+                const historialMember = []
+                const currentGuild = data[clan]
+                const historial = currentGuild["historial"]
+                const historialKeys = Object.keys(historial)
                 
-                const { id, description, name, rank, level, membersNum, date, prestige, members } = firstEntry;
-                const guildObject = new Guild(id, name, rank, level, membersNum, description, members, date, prestige);
-                guilds.push(guildObject);
-            });
-            const actualGuild = guilds.find(guild => guild.id === parseInt(clanId, 10));
-            const currentGuild = data[actualGuild.name]
-            
-            const historial = currentGuild["historial"]
-            const historialKeys = Object.keys(historial)
-            
-            historialKeys.forEach(key =>{
-                const entry = historial[key];
-                const { members } = entry;
-                const member = members.find(member => member.player_id=== parseInt(userId))
-                if(member){
-                    const {name, score, won_battles, era, city_name, profile_text, rank, is_active} = member
-                    const link = 'https://www.forge-db.com/mx/mx4/players/profile/?server=mx4&world=Dinegu&id='+parseInt(userId)
-                    const memberObject = new Member(null, name, score, won_battles, era, city_name, null, profile_text, link, rank, is_active, key, null)
-                    memberHistoric.push(memberObject)
-                }
+                historialKeys.forEach(key =>{
+                    const entry = historial[key];
+                    const { members } = entry;
+                    const member = members.find(member => member.player_id=== parseInt(userIds[index]))
+                    if(member){
+                        const {name, score, won_battles, era, city_name, profile_text, rank, is_active} = member
+                        const link = 'https://www.forge-db.com/mx/mx4/players/profile/?server=mx4&world=Dinegu&id='+parseInt(userIds[index])
+                        const memberObject = new Member(null, name, score, won_battles, era, city_name, null, profile_text, link, rank, is_active, key, null)
+                        historialMember.push(memberObject)
+                    }
+                })
+                memberHistoric.push(historialMember)
             })
+            //console.log(memberHistoric)
             const nick = document.querySelector('#nick-user');
-            nick.innerHTML = `<span class="h4">Jugador:  </span>    ${memberHistoric[0].name}`
-            renderMembersTable(memberHistoric);
+            nick.innerHTML = `<span class="h4">Foe Stats</span>`
+            //renderMembersTable(memberHistoric);
             drawChart(memberHistoric)
             })
             .catch(error => console.error('Error loading JSON data:', error));
-    }
     
 });
 
 function renderMembersTable(memberHistoric) {
     const tableBody = document.querySelector('#data-table tbody');
     tableBody.innerHTML = '';
-    const size = memberHistoric.length
 
-    memberHistoric.forEach((member, index)=>{
+    memberHistoric.forEach((historialMember, index)=>{
+        historialMember.forEach(member=>{
+            console.log(member.battles)
+        })
         const finishPosition = parseInt(memberHistoric.length) - 1
         const row = document.createElement('tr');
-        let datos = `
+        /*let datos = `
             <td class="col-1">${member.date}</td>
         `;
         if (index === parseInt(finishPosition)) {
@@ -90,8 +84,8 @@ function renderMembersTable(memberHistoric) {
             }else if(differenceBattles>0){
                 datos += `<td>${member.battles.toLocaleString()} <span class="text-success">(+${differenceBattles.toLocaleString()})</span></td>`;
             }
-        }
-        row.innerHTML = datos
+        }*/
+        //row.innerHTML = datos
         tableBody.appendChild(row);
     })
 
@@ -99,37 +93,78 @@ function renderMembersTable(memberHistoric) {
 }
 function drawChart(memberHistoric){
     
-    const battles = memberHistoric.map(member => member.battles).reverse();
-    const points = memberHistoric.map(member => member.points).reverse();
+    const battles = []
+    const points = []
+    const names = []
+    const battlesData = []
+    const pointsData = []
     
-    const battlesData = [
-        { name: 'Batallas', history: battles },
+
+    memberHistoric.forEach(historialMember=>{
+        const battlesForMember = []
+        const pointsForMember = []
+        const namesForMember = []
+        let nameMember = ""
+        historialMember.forEach(member=>{
+            battlesForMember.push(member.battles)
+            pointsForMember.push(member.points)
+            namesForMember.push(member.name)
+            nameMember = member.name
+        })
+        battles.push(battlesForMember.reverse())
+        points.push(pointsForMember.reverse())
+        names.push(namesForMember)
+        battlesData.push({ name: nameMember, history: battlesForMember });
+        pointsData.push({ name: nameMember, history: pointsForMember })
+    })
+    console.log(memberHistoric.length)
+    console.log(names)
+    //const battles = memberHistoric.map(member => member.battles).reverse();
+    //const points = memberHistoric.map(member => member.points).reverse();
+    
+    /*const battlesData = [
+        { name: 'Batallas', history: battles }
     ];
     const pointsData = [
         { name: 'Puntos', history: points }
-    ];
-
+    ];*/
     const ctx1 = document.getElementById('prestige-chart1').getContext('2d');
     const ctx2 = document.getElementById('prestige-chart2').getContext('2d');
 
-    const size = memberHistoric.length;
-    const arreglo = Array.from({ length: size }, (_, index) => index + 1);   
+    let numDatos = 0
+    battles.forEach(battleArray => {
+        if (battleArray.length > numDatos) {
+            numDatos = battleArray.length;
+        }
+    });
+    const arreglo = Array.from({ length: numDatos }, (_, index) => index + 1);   
+
     const labels = arreglo; 
-
-
-    const datasetBattle = battlesData.map(battle => {
+    const colors = [
+        '#1f77b4', // Azul
+        '#ff7f0e', // Naranja
+        '#2ca02c', // Verde
+        '#d62728', // Rojo
+        '#9467bd', // Púrpura
+        '#8c564b', // Marrón
+        '#e377c2', // Rosa
+        '#7f7f7f', // Gris
+        '#bcbd22', // Oliva
+        '#17becf'  // Cian
+    ];
+    const datasetBattle = battlesData.map((battle, index) => {
         return {
             label: battle.name,
             data: battle.history,
-            borderColor: "#FFC300", 
+            borderColor: colors[index], 
             fill: false
         };
     });
-    const datasetPoints = pointsData.map(point => {
+    const datasetPoints = pointsData.map((point, index) => {
         return {
             label: point.name,
             data: point.history,
-            borderColor: " #FF5733", 
+            borderColor: colors[index], 
             fill: false
         };
     });

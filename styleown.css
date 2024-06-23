@@ -1,0 +1,48 @@
+.table-hover tbody tr:hover {
+    background-color: #881515; /* Color de fondo al hacer hover */
+    cursor: pointer; /* Cambia el cursor al pasar sobre la fila */
+}
+.abel-regular {
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+};
+.bigbtnContainer{text-align:center;padding:10px;margin-bottom:15px;}
+.bigbtn{background:#211a15;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;font-family:'Gudea',sans-serif;font-size:24px;color:#fff;padding:15px 20px 15px 20px;border:solid #32271F 2px;text-decoration:none;font-weight:bold;display:inline-block;text-align:center;margin:10px 10px 0 10px;}
+.bigbtn:hover{background:#473a30;text-decoration:none;text-shadow:0 1px 0 rgba(0,0,0,0.4);
+    .abel-regular {
+        font-family: "Abel", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        };
+    }
+    .table{
+        display:table;
+        font-size:15px;
+        font-weight: bold;
+        border-bottom:1px solid #564437;
+        color:#c3aea2;
+        margin:3em auto;
+    }
+    body{background:#211A15;font-family:'Abel', sans-serif;}
+.btnContainer{
+    position:relative;
+    top:0;left:0;
+    margin:10px;
+    padding:10px;
+    background-color:#32271F;border:solid #211A15 2px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;}
+.btn{background:#211a15;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;font-family:'Gudea',sans-serif;font-size:14px;color:#d9c8be;padding:15px 20px 15px 20px;border:solid #32271F 2px;text-decoration:none;display:inline-block;width:110px;text-align:center;}
+.btn:hover{background:#473a30;text-decoration:none;text-shadow:0 1px 0 rgba(0,0,0,0.4);font-weight:bold;}
+.gbWrap{width:1200px;margin:0 auto;}
+.wrap{width:990px;margin:0 auto;}
+.logo a{margin:25px 0;color:#D9C8BE;font-size:40px;float:left;}
+.clearfix:after{display:block;clear:both;}
+.menu-wrap{background:#32271F;display:inline-block;-webkit-border-radius:.3em;-moz-border-radius:.3em;border-radius:.3em;}
+
+.table-head{display:table-header-group;}
+.table-head .column{background:#564437;color:#c3aea2;border-right:1px solid #564437;border-bottom:none;text-align:center;}
+.table th, .table td {
+    text-align: center; 
+    padding: 8px; 
+    border: 1px solid transparent;
+}
