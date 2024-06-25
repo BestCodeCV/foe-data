@@ -44,11 +44,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     const {name, score, won_battles, era, city_name, profile_text, rank, is_active} = member
                     const link = 'https://www.forge-db.com/mx/mx4/players/profile/?server=mx4&world=Dinegu&id='+parseInt(userId)
                     const memberObject = new Member(null, name, score, won_battles, era, city_name, null, profile_text, link, rank, is_active, key, null)
-                    memberHistoric.push(memberObject)
+                    if (memberObject && memberObject.battles !== null && memberObject.battles !== undefined
+                        && memberObject.points !== null && memberObject.points !== undefined
+                    ) {
+                        memberHistoric.push(memberObject)
+                    }
                 }
             })
             const nick = document.querySelector('#nick-user');
             nick.innerHTML = `<span class="h4">Jugador:  </span>    ${memberHistoric[0].name}`
+            
             renderMembersTable(memberHistoric);
             drawChart(memberHistoric)
             })
@@ -68,6 +73,7 @@ function renderMembersTable(memberHistoric) {
         let datos = `
             <td class="col-1">${member.date}</td>
         `;
+        console.log(member.battles + " hola " + member.points)
         if (index === parseInt(finishPosition)) {
             datos += `
             <td class="col-4">${member.points.toLocaleString()}</td>
@@ -76,6 +82,7 @@ function renderMembersTable(memberHistoric) {
         }else{
             const differenceBattles = member.battles - memberHistoric[index+1].battles
             const differencePoints = member.points - memberHistoric[index+1].points
+
             if(differencePoints===0){
                 datos += `<td>${member.points.toLocaleString()} <span class="text-muted">(+${differencePoints.toLocaleString()})</span></td>`;
             }else if(differencePoints<0){

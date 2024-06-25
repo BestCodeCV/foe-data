@@ -49,48 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
     
 });
 
-function renderMembersTable(memberHistoric) {
-    const tableBody = document.querySelector('#data-table tbody');
-    tableBody.innerHTML = '';
-
-    memberHistoric.forEach((historialMember, index)=>{
-        historialMember.forEach(member=>{
-            console.log(member.battles)
-        })
-        const finishPosition = parseInt(memberHistoric.length) - 1
-        const row = document.createElement('tr');
-        /*let datos = `
-            <td class="col-1">${member.date}</td>
-        `;
-        if (index === parseInt(finishPosition)) {
-            datos += `
-            <td class="col-4">${member.points.toLocaleString()}</td>
-            <td class="col-4">${member.battles.toLocaleString()}</td>
-            `;
-        }else{
-            const differenceBattles = member.battles - memberHistoric[index+1].battles
-            const differencePoints = member.points - memberHistoric[index+1].points
-            if(differencePoints===0){
-                datos += `<td>${member.points.toLocaleString()} <span class="text-muted">(+${differencePoints.toLocaleString()})</span></td>`;
-            }else if(differencePoints<0){
-                datos += `<td>${member.points.toLocaleString()} <span class="text-danger">(-${differencePoints.toLocaleString()})</span></td>`;
-            }else if(differencePoints>0){
-                datos += `<td>${member.points.toLocaleString()} <span class="text-success">(+${differencePoints.toLocaleString()})</span></td>`;
-            }
-            if(differenceBattles===0){
-                datos += `<td>${member.battles.toLocaleString()} <span class="text-muted">(+${differenceBattles.toLocaleString()})</span></td>`;
-            }else if(differenceBattles<0){
-                datos += `<td>${member.battles.toLocaleString()} <span class="text-danger">(-${differenceBattles.toLocaleString()})</span></td>`;
-            }else if(differenceBattles>0){
-                datos += `<td>${member.battles.toLocaleString()} <span class="text-success">(+${differenceBattles.toLocaleString()})</span></td>`;
-            }
-        }*/
-        //row.innerHTML = datos
-        tableBody.appendChild(row);
-    })
-
-
-}
 function drawChart(memberHistoric){
     
     const battles = []
@@ -117,17 +75,6 @@ function drawChart(memberHistoric){
         battlesData.push({ name: nameMember, history: battlesForMember });
         pointsData.push({ name: nameMember, history: pointsForMember })
     })
-    console.log(memberHistoric.length)
-    console.log(names)
-    //const battles = memberHistoric.map(member => member.battles).reverse();
-    //const points = memberHistoric.map(member => member.points).reverse();
-    
-    /*const battlesData = [
-        { name: 'Batallas', history: battles }
-    ];
-    const pointsData = [
-        { name: 'Puntos', history: points }
-    ];*/
     const ctx1 = document.getElementById('prestige-chart1').getContext('2d');
     const ctx2 = document.getElementById('prestige-chart2').getContext('2d');
 
@@ -238,7 +185,4 @@ function drawChart(memberHistoric){
     };
     new Chart(ctx1, configBattle);
     new Chart(ctx2, configPoint);
-    function getRandomColor() {
-        return '#' + Math.floor(Math.random() * 16777215).toString(16);
-    }
 }

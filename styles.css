@@ -145,7 +145,16 @@ body{background:#211A15;font-family:'Abel', sans-serif;}
 .statTable tr:hover td{}
 .statTable tr:nth-child(odd){background-color:#fff;}
 .statTable tr:nth-child(even){background-color:#ddd;}
-.statTable td{text-align:left;vertical-align:middle;padding:7px;font-size:14px;font-family:Helvetica, sans-serif;color:#000000;}
+.statTable td{
+    text-align:left;
+    vertical-align:middle;
+    padding:7px;
+    font-size:15px;
+    font-family: Abel, 
+    sans-serif;
+    color:#000000;
+    font-weight: bold;
+}
 .statTable td a{color:#000;font-weight:bold;}
 .statTable tr:last-child td{border-width:0 1px 0 0;}
 .statTable tr td:last-child{border-width:0 0 1px 0;}

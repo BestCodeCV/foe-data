@@ -40,6 +40,16 @@ class Member{
         this.clan = clan
     }
 }
+class Neighbor{
+    constructor(name, img, atq, def, pos, units){
+        this.name = name
+        this.img = img
+        this.atq = atq 
+        this.def = def 
+        this.pos = pos 
+        this.units = units 
+    }
+}
 class Good{
     constructor(name, quantity, show, status, es_name, en_name, url, age){
         this.name = name
@@ -72,4 +82,4 @@ class GoodDetail {
         this.age = age
     }
 }
-export {DataGuild, Guild, Member, Good, Sector, Building, GoodDetail}
+export {Neighbor,DataGuild, Guild, Member, Good, Sector, Building, GoodDetail}

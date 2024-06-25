@@ -3,7 +3,14 @@ import { Guild, Member } from './models/utils.js';
 document.addEventListener('DOMContentLoaded', () => {
     const guilds = [];
     const memberHistoric = []
-    
+    const flags = {
+        "flag_3": 'https://cdn.forge-db.com/images/guild_flags/flag_3.jpg',
+        "flag_31": 'https://cdn.forge-db.com/images/guild_flags/flag_31.jpg',
+        "flag_9": 'https://cdn.forge-db.com/images/guild_flags/flag_9.jpg',
+        "premium_flag_5": 'https://cdn.forge-db.com/images/guild_flags/premium_flag_5.jpg',
+        "flag_30": 'https://cdn.forge-db.com/images/guild_flags/flag_30.jpg',
+    };
+    //31 kraken, 9 leones, 3 pretos, 
     const params = new URLSearchParams(window.location.search);
     const userId = params.get('id');
     if (userId) {
@@ -16,9 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 historialKeys.forEach(key =>{
                     const entry = historial[key];
-                    const { description, name, rank, level, membersNum, date, members, prestige } = entry;
-                    const guildObject = new Guild(key, name, rank, level, membersNum, description, members, date, prestige);
-                    
+                    const { description, name, rank, level, membersNum, flag, members, prestige } = entry;
+                    const guildObject = new Guild(key, name, rank, level, membersNum, description, members, flag, prestige);
                     guilds.push(guildObject)
                 })
                 guilds.forEach(guildOfArray => {
@@ -33,6 +39,27 @@ document.addEventListener('DOMContentLoaded', () => {
                     })
                     memberHistoric.push(members)
                 })
+                console.log(guilds[0])
+
+                const txName = document.querySelector('#name-clan');
+                const txRanking = document.querySelector('#ranking');
+                const txNivel = document.querySelector('#nivel');
+                const txPrestige = document.querySelector('#prestige');
+                const txMembers = document.querySelector('#num-members');
+                const flag = document.querySelector('#flag');
+                const tittle = document.querySelector('#tittle');
+                tittle.innerHTML = `${guilds[0].name}`
+
+
+                txName.innerHTML = `${guilds[0].name}`
+                txRanking.innerHTML = `${guilds[0].rank}`
+                txNivel.innerHTML = `${guilds[0].level}`
+                txPrestige.innerHTML = `${guilds[0].prestige.toLocaleString()}`
+                txMembers.innerHTML = `${guilds[0].membersNum}`
+                console.log(flags[guilds[0].date])
+                if(flags[guilds[0].date]){
+                    flag.src = flags[guilds[0].date]
+                }
                 renderMembersTable(memberHistoric);
             })
             .catch(error => console.error('Error loading JSON data:', error));
@@ -73,14 +100,14 @@ function renderMembersTable(memberHistoric) {
                 if(differencePoints===0){
                     datos += `<td>${member.points.toLocaleString()} <span class="text-muted">(+${differencePoints.toLocaleString()})</span></td>`;
                 }else if(differencePoints<0){
-                    datos += `<td>${member.points.toLocaleString()} <span class="text-danger">(+${differencePoints.toLocaleString()})</span></td>`;
+                    datos += `<td>${member.points.toLocaleString()} <span class="text-danger">(-${differencePoints.toLocaleString()})</span></td>`;
                 }else if(differencePoints>0){
                     datos += `<td>${member.points.toLocaleString()} <span class="text-success">(+${differencePoints.toLocaleString()})</span></td>`;
                 }
                 if(differenceBattles===0){
                     datos += `<td>${member.battles.toLocaleString()} <span class="text-muted">(+${differenceBattles.toLocaleString()})</span></td>`;
                 }else if(differenceBattles<0){
-                    datos += `<td>${member.battles.toLocaleString()} <span class="text-danger">(+${differenceBattles.toLocaleString()})</span></td>`;
+                    datos += `<td>${member.battles.toLocaleString()} <span class="text-danger">(-${differenceBattles.toLocaleString()})</span></td>`;
                 }else if(differenceBattles>0){
                     datos += `<td>${member.battles.toLocaleString()} <span class="text-success">(+${differenceBattles.toLocaleString()})</span></td>`;
                 }

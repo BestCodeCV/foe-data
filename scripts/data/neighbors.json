@@ -1,0 +1,441 @@
+[
+    {
+        "name": "jrobleno",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_096-aca5106fe.jpg",
+        "atq": "412%",
+        "def": "645%",
+        "pos": "75",
+        "units": [12,12,12,12,12,12,12,12]
+    },
+    {
+        "name": "israel55",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_026-a023c295e.jpg",
+        "atq": "449%",
+        "def": "331%",
+        "pos": "74",
+        "units": [7,7]
+    },
+    {
+        "name": "Danielprimeroconelnombre",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_236-5ea13176e.jpg",
+        "atq": "565%",
+        "def": "780%",
+        "pos": "72",
+        "units": [6,6,6,6,6,6,6,6]
+    },
+    {
+        "name": "ivangal",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_299-fba906e7b.jpg",
+        "atq": "564%",
+        "def": "579%",
+        "pos": "71",
+        "units": [7,7]
+    },
+    {
+        "name": "Vercingetorix",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_395-848fd4a64.jpg",
+        "atq": "510%",
+        "def": "429%",
+        "pos": "70",
+        "units": [5,5,5,5,5,5,5,5]
+    },
+    {
+        "name": "Joks",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_130-94d00cd80.jpg",
+        "atq": "439%",
+        "def": "640%",
+        "pos": "69",
+        "units": [12,12,12,12,13,13,14,14]
+    },
+    {
+        "name": "SaMa Builder",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_129-a08d794d7.jpg",
+        "atq": "1278%",
+        "def": "1610%",
+        "pos": "68",
+        "units": [1,1,4,4,4,3,3,8]
+    },
+    {
+        "name": "TierraDelSur",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_076-2488a3c0d.jpg",
+        "atq": "612%",
+        "def": "1013%",
+        "pos": "66",
+        "units": [1,1,1,1,4,4,4,2]
+    },
+    {
+        "name": "PaulinAckerman",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_482-e3fc2c4a7.jpg",
+        "atq": "759%",
+        "def": "516%",
+        "pos": "65",
+        "units": [12,12]
+    },
+    {
+        "name": "Carlos88",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_056-5546467fa.jpg",
+        "atq": "594%",
+        "def": "1134%",
+        "pos": "64",
+        "units": [4,4,4,4,4,5,5,5]
+    },
+    {
+        "name": "Dan wan kenobi",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_364-c93a9a50a.jpg",
+        "atq": "524%",
+        "def": "474%",
+        "pos": "62",
+        "units": [4,4,4,4,5,5,6,2]
+    },
+
+    {
+        "name": "MAD MAX",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_398-1b44a4e2d.jpg",
+        "atq": "225%",
+        "def": "476%",
+        "pos": "61",
+        "units": [7,7]
+    },
+    {
+        "name": "David II",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_318-e18fc11a9.jpg",
+        "atq": "1260%",
+        "def": "1476%",
+        "pos": "60",
+        "units": [1,1,3,3,6,6,2,2]
+    },
+    {
+        "name": "El Michi",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_486-aba051ad0.jpg",
+        "atq": "1200%",
+        "def": "1163%",
+        "pos": "59",
+        "units": [9,11,14]
+    },
+    {
+        "name": "Camila DG",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_467-be73ab0f6.jpg",
+        "atq": "2030%",
+        "def": "2232%",
+        "pos": "58",
+        "units": [1,1,2,2,2,2,2,2]
+    },
+    {
+        "name": "FastFatima",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_677-b4b053f69.jpg",
+        "atq": "1912%",
+        "def": "1947%",
+        "pos": "57",
+        "units": [7,7]
+    },
+    {
+        "name": "El reencuentro",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_532-5306c4565.jpg",
+        "atq": "498%",
+        "def": "959%",
+        "pos": "56",
+        "units": [7,7]
+    },{
+        "name": "Amero2",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_468-b40a43449.jpg",
+        "atq": "1681%",
+        "def": "1970%",
+        "pos": "55",
+        "units": [1,1,4,4,5,5,6,8]
+    },
+    {
+        "name": "Yo 19 el generoso",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_661-d66895fb8.jpg",
+        "atq": "154%",
+        "def": "171%",
+        "pos": "54",
+        "units": [7,7]
+    },
+    {
+        "name": "Papa win",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_125-99a77505f.jpg",
+        "atq": "201%",
+        "def": "623%",
+        "pos": "53",
+        "units": [7,7]
+    },
+    {
+        "name": "Johec",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_584-7f20bcce9.jpg",
+        "atq": "840%",
+        "def": "816%",
+        "pos": "52",
+        "units": [5,5,5,5,5,5,5,5]
+    },
+    {
+        "name": "Alejandro el poderoso",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_021-8baf4e7f7.jpg",
+        "atq": "605%",
+        "def": "864%",
+        "pos": "51",
+        "units": [1,1,4,5,8,8,8,8]
+    },
+    {
+        "name": "Juanka",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_229-406addc49.jpg",
+        "atq": "1288%",
+        "def": "1050%",
+        "pos": "49",
+        "units": [4,4,12,2,2,2,8,8]
+    },
+    {
+        "name": "Kaizer Gun",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_405-758d1cd29.jpg",
+        "atq": "1605%",
+        "def": "1842%",
+        "pos": "48",
+        "units": [1,5,5,5,3,2,2]
+    },
+    {
+        "name": "Zinnia",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_441-f95ad9f41.jpg",
+        "atq": "479%",
+        "def": "800%",
+        "pos": "47",
+        "units": [7,7]
+    },
+    {
+        "name": "ALMENDRIKA",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_652-0b28bbc4f.jpg",
+        "atq": "1056%",
+        "def": "1100%",
+        "pos": "46",
+        "units": [1,1,1,4,4,1,3,3]
+    },
+    {
+        "name": "Dan D",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_259-31a54cbb1.jpg",
+        "atq": "2085%",
+        "def": "1600%",
+        "pos": "44",
+        "units": [7,7]
+    },{
+        "name": "DragonRyder",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_485-700ab753f.jpg",
+        "atq": "528%",
+        "def": "694%",
+        "pos": "43",
+        "units": [7,7]
+    },
+    {
+        "name": "Pastor Inglés",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_052-5535962a7.jpg",
+        "atq": "2671%",
+        "def": "2270%",
+        "pos": "41",
+        "units": [1,1,1,1,3,3,3,3]
+    },
+    {
+        "name": "Espiri 1000",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_001-4ab25692d.jpg",
+        "atq": "683%",
+        "def": "1020%",
+        "pos": "40",
+        "units": [1,1,1,1,5,5,5,5]
+    },
+    {
+        "name": "Ares*",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_258-5ad6afa1f.jpg",
+        "atq": "416%",
+        "def": "586%",
+        "pos": "39",
+        "units": [7,7]
+    },
+    {
+        "name": "RouxBeware",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_428-9e3dc78a4.jpg",
+        "atq": "1342%",
+        "def": "1121%",
+        "pos": "38",
+        "units": [1,1,1,1,1,1,1,2]
+    },
+    {
+        "name": "Zijrono Liberajá",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_076-2488a3c0d.jpg",
+        "atq": "2315%",
+        "def": "4175%",
+        "pos": "37",
+        "units": [1,1,4,4,2,2,2,2]
+    },
+    {
+        "name": "KARLOZ El Centurión",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_430-3f4f98116.jpg",
+        "atq": "1655%",
+        "def": "1277%",
+        "pos": "36",
+        "units": [12,12,12,12,8,8,8,8]
+    },
+    {
+        "name": "monoespin 30",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_621-b8e0b4197.jpg",
+        "atq": "1226%",
+        "def": "1070%",
+        "pos": "35",
+        "units": [7,7]
+    },
+    {
+        "name": "Alerico 85",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_405-758d1cd29.jpg",
+        "atq": "0%",
+        "def": "0%",
+        "pos": "34",
+        "units": [1,1,1,1,8,8,8]
+    },
+    {
+        "name": "zorrito 85",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_645-c50ac0e87.jpg",
+        "atq": "2158%",
+        "def": "2508%",
+        "pos": "33",
+        "units": [1,1,1,1,1,1,1,1]
+    },
+    {
+        "name": "cirilita Saqueadora",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_604-522699825.jpg",
+        "atq": "1110%",
+        "def": "1771%",
+        "pos": "32",
+        "units": [4,4,4,4,4,8,8]
+    },
+    {
+        "name": "Molotov",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_007-4e40458b4.jpg",
+        "atq": "1709%",
+        "def": "2366%",
+        "pos": "31",
+        "units": [4,4,8,8,8,8,8,8]
+    },
+    {
+        "name": "Cuadrito",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_512-60016556d.jpg",
+        "atq": "1321%",
+        "def": "857%",
+        "pos": "29",
+        "units": [7,7]
+    },
+    {
+        "name": "Alejandrus",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_595-bb0b1806b.jpg",
+        "atq": "1590%",
+        "def": "2096%",
+        "pos": "28",
+        "units": [7,7]
+    },
+    {
+        "name": "El Gran Carlos",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_134-03e845d49.jpg",
+        "atq": "2102%",
+        "def": "1745%",
+        "pos": "27",
+        "units": [1,4,4,4,5,3,3,6]
+    },
+    {
+        "name": "Mago 11",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_544-cf47b8a9c.jpg",
+        "atq": "1480%",
+        "def": "1701%",
+        "pos": "26",
+        "units": [3,3,3,3,3,3,3,3]
+    },
+    {
+        "name": "echamelosperros",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_339-989927fc4.jpg",
+        "atq": "1548%",
+        "def": "1257%",
+        "pos": "24",
+        "units": [1,1,1,1,1,1,1,1]
+    },
+    {
+        "name": "Sephiroth777",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_544-cf47b8a9c.jpg",
+        "atq": "3033%",
+        "def": "3062%",
+        "pos": "23",
+        "units": [5,5,5,5,5,5,2,2]
+    },
+    {
+        "name": "Josa",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_485-700ab753f.jpg",
+        "atq": "587%",
+        "def": "657%",
+        "pos": "20",
+        "units": [7,7]
+    },
+    {
+        "name": "Ishmael el Ballenero",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_448-08dafdad8.jpg",
+        "atq": "3745%",
+        "def": "4117%",
+        "pos": "17",
+        "units": [1,1,1,5,5,2,2,2]
+    },
+    {
+        "name": "Roberyo",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_207-51f18b1b2.jpg",
+        "atq": "1688%",
+        "def": "1722%",
+        "pos": "16",
+        "units": [1,5,5,5,3,3,2]
+    },
+    {
+        "name": "Chimali",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_621-b8e0b4197.jpg",
+        "atq": "2494%",
+        "def": "1988%",
+        "pos": "15",
+        "units": [7,7]
+    },
+    {
+        "name": "JCGA",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_318-e18fc11a9.jpg",
+        "atq": "4067%",
+        "def": "3754%",
+        "pos": "14",
+        "units": [4,4,4,4,4,3,3,8]
+    },
+    {
+        "name": "mauch8420",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_132-23e06e34c.jpg",
+        "atq": "1773%",
+        "def": "1854%",
+        "pos": "12",
+        "units": [4,4,4,4,3,2,6,6]
+    },
+    {
+        "name": "Magallanes50",
+        "img": "https://foemx.innogamescdn.com/assets/shared/avatars/portrait_652-0b28bbc4f.jpg",
+        "atq": "3652%",
+        "def": "4127%",
+        "pos": "11",
+        "units": [1,1,1,2,2,4,4,4]
+    },
+    {
+        "name": "Oliram",
+        "img": "https://static.wikia.nocookie.net/forgeofempires/images/3/37/Portrait_348.jpg/revision/latest?cb=20190927060826",
+        "atq": "819%",
+        "def": "1695%",
+        "pos": "9",
+        "units": [7,7]
+    },
+    {
+        "name": "Amitis 69",
+        "img": "https://static.wikia.nocookie.net/forgeofempires/images/b/b4/Portrait_129.jpg/revision/latest?cb=20150208091550",
+        "atq": "3344%",
+        "def": "3513%",
+        "pos": "8",
+        "units": [1,1,4,4,4,2,8,8]
+    },
+    {
+        "name": "Armt",
+        "img": "https://static.wikia.nocookie.net/forgeofempires/images/f/f0/Portrait_580.png/revision/latest?cb=20230603154413",
+        "atq": "1724%",
+        "def": "1959%",
+        "pos": "7",
+        "units": [1,1,2,2,2,2,5,8]
+    }
+]
