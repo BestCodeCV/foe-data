@@ -1,0 +1,1557 @@
+{
+  "id": 372,
+  "name": "B.Y.O.B.",
+  "membersNum": 8,
+  "flag": "premium_flag_5",
+  "description": "---Las condiciones para mantener tu lugar dentro son, participar en Batallas de Gremio y Expedición.\r\r---En este gremio encontraras grandes compañeros que te ayuden siempre avanzar al siguiente nivel.",
+  "level": 84,
+  "points": 124443679,
+  "rank": 14,
+  "prestige": 16812,
+  "members": [
+    {
+      "player_id": 387826,
+      "name": "No Soy Mario",
+      "avatar": "portrait_id_166",
+      "score": 1324305711,
+      "rank": 1,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "is_self": true,
+      "profile_text": "Se dispone de 5 minutos diarios, sea breve.",
+      "city_name": "Carpe Diem",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 421506,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "forward_to_the_future",
+            "name": "Avanzar hacia el futuro",
+            "descriptionTemplate": "Alcanza %s/%s eras",
+            "descriptionCityTooltip": "Alcanza %s eras",
+            "currentLevel": {
+              "level": 4,
+              "progress": 21,
+              "requiredProgress": 15,
+              "obtainedAt": 1565344691,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 15,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 355773,
+              "requiredProgress": 50000,
+              "obtainedAt": 1588467729,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "foe_fanclub",
+            "name": "Club de Fans de FoE",
+            "descriptionTemplate": "Juega %s/%s días de Forge of Empires",
+            "descriptionCityTooltip": "Juega %s días de Forge of Empires",
+            "currentLevel": {
+              "level": 4,
+              "progress": 2184,
+              "requiredProgress": 1460,
+              "obtainedAt": 1656768561,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 1460,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "permissions": 3,
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 629473,
+      "name": "Danielle95",
+      "avatar": "addon_portrait_id_skully",
+      "score": 1111022397,
+      "rank": 2,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "next_interaction_in": 79808,
+      "profile_text": "A.D.Q.N.O.",
+      "city_name": "Ciudad de danielle95",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 354652,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "billy_the_kid",
+            "name": "El niño Billy",
+            "descriptionTemplate": "Saquea %s/%s edificios",
+            "descriptionCityTooltip": "Saquea %s edificios",
+            "currentLevel": {
+              "level": 4,
+              "progress": 8905,
+              "requiredProgress": 3000,
+              "obtainedAt": 1555953265,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 3000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "permissions": 3,
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1010211,
+      "name": "rodro",
+      "avatar": "addon_portrait_id_484",
+      "score": 349585200,
+      "rank": 3,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "next_interaction_in": 79809,
+      "profile_text": "Peoncito",
+      "city_name": "Argentina",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 101522,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeTitan",
+      "permissions": 3,
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1294897,
+      "name": "Victoria 100 la Lacra",
+      "avatar": "addon_portrait_id_summer_sally",
+      "score": 201337816,
+      "rank": 4,
+      "is_friend": true,
+      "is_guild_member": true,
+      "next_interaction_in": 79813,
+      "profile_text": "😊",
+      "city_name": "Ciudad de Victoria 100 la Lacra",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 75952,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeMars",
+      "permissions": 2,
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1221058,
+      "name": "anfisaletyago",
+      "avatar": "addon_portrait_id_298",
+      "score": 176234628,
+      "rank": 5,
+      "is_friend": true,
+      "is_guild_member": true,
+      "next_interaction_in": 79812,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "tOmOrRoWlAnD",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 67853,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeAsteroidBelt",
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1404257,
+      "name": "J0AQUIN.",
+      "avatar": "addon_portrait_id_van_gogh",
+      "score": 174191750,
+      "rank": 6,
+      "is_friend": true,
+      "is_guild_member": true,
+      "next_interaction_in": 79810,
+      "profile_text": "",
+      "city_name": "Joaquin",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 42546,
+      "has_great_building": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 3,
+              "progress": 30795,
+              "requiredProgress": 1000,
+              "obtainedAt": 1598760804,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "good_god",
+            "name": "¡Por Dios!",
+            "descriptionTemplate": "Recolecta %s/%s bienes",
+            "descriptionCityTooltip": "Recolecta %s bienes",
+            "currentLevel": {
+              "level": 4,
+              "progress": 2645532,
+              "requiredProgress": 2000000,
+              "obtainedAt": 1701577200,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 2000000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "foe_fanclub",
+            "name": "Club de Fans de FoE",
+            "descriptionTemplate": "Juega %s/%s días de Forge of Empires",
+            "descriptionCityTooltip": "Juega %s días de Forge of Empires",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1528,
+              "requiredProgress": 1460,
+              "obtainedAt": 1712751203,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 1460,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeVenus",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1029578,
+      "name": "ChazyChaz",
+      "avatar": "addon_portrait_id_236",
+      "score": 124299757,
+      "rank": 7,
+      "is_friend": true,
+      "is_guild_member": true,
+      "next_interaction_in": 79811,
+      "profile_text": "7T",
+      "city_name": "ATS26",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 56344,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeVenus",
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1296393,
+      "name": "Elizabeth 141 la Noble",
+      "avatar": "portrait_id_49",
+      "score": 27518774,
+      "rank": 8,
+      "is_guild_member": true,
+      "next_interaction_in": 79814,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Elizabeth",
+      "clan_id": 372,
+      "clan": {
+        "id": 372,
+        "name": "B.Y.O.B.",
+        "membersNum": 8,
+        "flag": "premium_flag_5",
+        "description": "",
+        "settings": {
+          "join": "application",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 32282,
+        "__class__": "Clan"
+      },
+      "won_battles": 5971,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "one_for_the_piggy_bank",
+            "name": "Uno para la alcancía",
+            "descriptionTemplate": "Recolecta %s/%s monedas",
+            "descriptionCityTooltip": "Recolecta %s monedas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 4918173725,
+              "requiredProgress": 500000000,
+              "obtainedAt": 1680024644,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 500000000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "heavy_medal",
+            "name": "¡Heavy medal!",
+            "descriptionTemplate": "Recolecta %s/%s medallas",
+            "descriptionCityTooltip": "Recolecta %s medallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 15924800,
+              "requiredProgress": 2000000,
+              "obtainedAt": 1660577506,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 2000000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "you_call_that_archaeology",
+            "name": "¿Llamas a esto Arqueología?",
+            "descriptionTemplate": "Resuelve %s/%s encuentros peleando.",
+            "descriptionCityTooltip": "Resuelve %s encuentros peleando.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 897,
+              "requiredProgress": 300,
+              "obtainedAt": 1642810581,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 1000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeMars",
+      "title": "",
+      "activity": 2,
+      "__class__": "ClanMember"
+    }
+  ],
+  "flags_bought": [
+    "premium_flag_9",
+    "premium_flag_5"
+  ],
+  "level_configs": [
+    {
+      "medals": 10,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 60,
+      "support_bonus": 10,
+      "prestige_bonus": 25,
+      "recruitment_acceleration": 2,
+      "medals": 10,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 450,
+      "support_bonus": 30,
+      "prestige_bonus": 50,
+      "recruitment_acceleration": 2,
+      "construction_reduction": 1,
+      "medals": 10,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1500,
+      "support_bonus": 50,
+      "prestige_bonus": 75,
+      "recruitment_acceleration": 2,
+      "daily_strategypoint_bonus": 1,
+      "construction_reduction": 1,
+      "medals": 20,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3560,
+      "support_bonus": 80,
+      "prestige_bonus": 100,
+      "recruitment_acceleration": 4,
+      "daily_strategypoint_bonus": 1,
+      "construction_reduction": 1,
+      "medals": 30,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 7030,
+      "support_bonus": 110,
+      "prestige_bonus": 125,
+      "recruitment_acceleration": 4,
+      "daily_strategypoint_bonus": 1,
+      "construction_reduction": 2,
+      "medals": 40,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 12340,
+      "support_bonus": 150,
+      "prestige_bonus": 150,
+      "recruitment_acceleration": 4,
+      "daily_strategypoint_bonus": 2,
+      "construction_reduction": 2,
+      "medals": 60,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 19960,
+      "support_bonus": 190,
+      "prestige_bonus": 175,
+      "recruitment_acceleration": 6,
+      "daily_strategypoint_bonus": 2,
+      "construction_reduction": 2,
+      "medals": 80,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 30390,
+      "support_bonus": 230,
+      "prestige_bonus": 200,
+      "recruitment_acceleration": 6,
+      "daily_strategypoint_bonus": 2,
+      "construction_reduction": 3,
+      "medals": 100,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 44180,
+      "support_bonus": 280,
+      "prestige_bonus": 225,
+      "recruitment_acceleration": 6,
+      "daily_strategypoint_bonus": 3,
+      "construction_reduction": 3,
+      "medals": 140,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 61920,
+      "support_bonus": 340,
+      "prestige_bonus": 250,
+      "recruitment_acceleration": 8,
+      "daily_strategypoint_bonus": 3,
+      "construction_reduction": 3,
+      "medals": 170,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 84230,
+      "support_bonus": 400,
+      "prestige_bonus": 275,
+      "recruitment_acceleration": 8,
+      "daily_strategypoint_bonus": 3,
+      "construction_reduction": 4,
+      "medals": 210,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 111790,
+      "support_bonus": 470,
+      "prestige_bonus": 300,
+      "recruitment_acceleration": 8,
+      "daily_strategypoint_bonus": 4,
+      "construction_reduction": 4,
+      "medals": 260,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 145320,
+      "support_bonus": 540,
+      "prestige_bonus": 325,
+      "recruitment_acceleration": 10,
+      "daily_strategypoint_bonus": 4,
+      "construction_reduction": 4,
+      "medals": 310,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 185570,
+      "support_bonus": 610,
+      "prestige_bonus": 350,
+      "recruitment_acceleration": 10,
+      "daily_strategypoint_bonus": 4,
+      "construction_reduction": 5,
+      "medals": 380,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 233350,
+      "support_bonus": 690,
+      "prestige_bonus": 375,
+      "recruitment_acceleration": 10,
+      "daily_strategypoint_bonus": 5,
+      "construction_reduction": 5,
+      "medals": 440,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 289500,
+      "support_bonus": 770,
+      "prestige_bonus": 400,
+      "recruitment_acceleration": 12,
+      "daily_strategypoint_bonus": 5,
+      "construction_reduction": 5,
+      "medals": 520,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 354920,
+      "support_bonus": 860,
+      "prestige_bonus": 425,
+      "recruitment_acceleration": 12,
+      "daily_strategypoint_bonus": 5,
+      "construction_reduction": 6,
+      "medals": 600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 430550,
+      "support_bonus": 960,
+      "prestige_bonus": 450,
+      "recruitment_acceleration": 12,
+      "daily_strategypoint_bonus": 6,
+      "construction_reduction": 6,
+      "medals": 700,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 517380,
+      "support_bonus": 1060,
+      "prestige_bonus": 475,
+      "recruitment_acceleration": 14,
+      "daily_strategypoint_bonus": 6,
+      "construction_reduction": 6,
+      "medals": 800,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 616430,
+      "support_bonus": 1160,
+      "prestige_bonus": 500,
+      "recruitment_acceleration": 14,
+      "daily_strategypoint_bonus": 6,
+      "construction_reduction": 7,
+      "medals": 910,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 728790,
+      "support_bonus": 1270,
+      "prestige_bonus": 525,
+      "recruitment_acceleration": 14,
+      "daily_strategypoint_bonus": 7,
+      "construction_reduction": 7,
+      "medals": 1030,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 855590,
+      "support_bonus": 1380,
+      "prestige_bonus": 550,
+      "recruitment_acceleration": 16,
+      "daily_strategypoint_bonus": 7,
+      "construction_reduction": 7,
+      "medals": 1160,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 998010,
+      "support_bonus": 1500,
+      "prestige_bonus": 575,
+      "recruitment_acceleration": 16,
+      "daily_strategypoint_bonus": 7,
+      "construction_reduction": 8,
+      "medals": 1300,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1157270,
+      "support_bonus": 1620,
+      "prestige_bonus": 600,
+      "recruitment_acceleration": 16,
+      "daily_strategypoint_bonus": 8,
+      "construction_reduction": 8,
+      "medals": 1500,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1334650,
+      "support_bonus": 1750,
+      "prestige_bonus": 625,
+      "recruitment_acceleration": 18,
+      "daily_strategypoint_bonus": 8,
+      "construction_reduction": 8,
+      "medals": 1600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1531470,
+      "support_bonus": 1880,
+      "prestige_bonus": 650,
+      "recruitment_acceleration": 18,
+      "daily_strategypoint_bonus": 8,
+      "construction_reduction": 9,
+      "medals": 1800,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1749100,
+      "support_bonus": 2020,
+      "prestige_bonus": 675,
+      "recruitment_acceleration": 18,
+      "daily_strategypoint_bonus": 9,
+      "construction_reduction": 9,
+      "medals": 2000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1988970,
+      "support_bonus": 2160,
+      "prestige_bonus": 700,
+      "recruitment_acceleration": 20,
+      "daily_strategypoint_bonus": 9,
+      "construction_reduction": 9,
+      "medals": 2200,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 2252560,
+      "support_bonus": 2310,
+      "prestige_bonus": 725,
+      "recruitment_acceleration": 20,
+      "daily_strategypoint_bonus": 9,
+      "construction_reduction": 10,
+      "medals": 2400,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 2541380,
+      "support_bonus": 2460,
+      "prestige_bonus": 750,
+      "recruitment_acceleration": 20,
+      "daily_strategypoint_bonus": 10,
+      "construction_reduction": 10,
+      "medals": 2600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 2857020,
+      "support_bonus": 2620,
+      "prestige_bonus": 775,
+      "recruitment_acceleration": 22,
+      "daily_strategypoint_bonus": 10,
+      "construction_reduction": 10,
+      "medals": 2900,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3201100,
+      "support_bonus": 2780,
+      "prestige_bonus": 800,
+      "recruitment_acceleration": 22,
+      "daily_strategypoint_bonus": 10,
+      "construction_reduction": 11,
+      "medals": 3100,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3575300,
+      "support_bonus": 2940,
+      "prestige_bonus": 825,
+      "recruitment_acceleration": 22,
+      "daily_strategypoint_bonus": 11,
+      "construction_reduction": 11,
+      "medals": 3400,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3981350,
+      "support_bonus": 3110,
+      "prestige_bonus": 850,
+      "recruitment_acceleration": 24,
+      "daily_strategypoint_bonus": 11,
+      "construction_reduction": 11,
+      "medals": 3700,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 4421030,
+      "support_bonus": 3290,
+      "prestige_bonus": 875,
+      "recruitment_acceleration": 24,
+      "daily_strategypoint_bonus": 11,
+      "construction_reduction": 12,
+      "medals": 4000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 4896180,
+      "support_bonus": 3470,
+      "prestige_bonus": 900,
+      "recruitment_acceleration": 24,
+      "daily_strategypoint_bonus": 12,
+      "construction_reduction": 12,
+      "medals": 4300,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 5408680,
+      "support_bonus": 3660,
+      "prestige_bonus": 925,
+      "recruitment_acceleration": 26,
+      "daily_strategypoint_bonus": 12,
+      "construction_reduction": 12,
+      "medals": 4700,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 5960470,
+      "support_bonus": 3850,
+      "prestige_bonus": 950,
+      "recruitment_acceleration": 26,
+      "daily_strategypoint_bonus": 12,
+      "construction_reduction": 13,
+      "medals": 5000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 6553550,
+      "support_bonus": 4040,
+      "prestige_bonus": 975,
+      "recruitment_acceleration": 26,
+      "daily_strategypoint_bonus": 13,
+      "construction_reduction": 13,
+      "medals": 5400,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 7189960,
+      "support_bonus": 4240,
+      "prestige_bonus": 1000,
+      "recruitment_acceleration": 28,
+      "daily_strategypoint_bonus": 13,
+      "construction_reduction": 13,
+      "medals": 5800,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 7871800,
+      "support_bonus": 4440,
+      "prestige_bonus": 1025,
+      "recruitment_acceleration": 28,
+      "daily_strategypoint_bonus": 13,
+      "construction_reduction": 14,
+      "medals": 6200,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 8601230,
+      "support_bonus": 4650,
+      "prestige_bonus": 1050,
+      "recruitment_acceleration": 28,
+      "daily_strategypoint_bonus": 14,
+      "construction_reduction": 14,
+      "medals": 6600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 9380450,
+      "support_bonus": 4870,
+      "prestige_bonus": 1075,
+      "recruitment_acceleration": 30,
+      "daily_strategypoint_bonus": 14,
+      "construction_reduction": 14,
+      "medals": 7100,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 10211720,
+      "support_bonus": 5090,
+      "prestige_bonus": 1100,
+      "recruitment_acceleration": 30,
+      "daily_strategypoint_bonus": 14,
+      "construction_reduction": 15,
+      "medals": 7500,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 11097360,
+      "support_bonus": 5310,
+      "prestige_bonus": 1125,
+      "recruitment_acceleration": 30,
+      "daily_strategypoint_bonus": 15,
+      "construction_reduction": 15,
+      "medals": 8000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 12039740,
+      "support_bonus": 5540,
+      "prestige_bonus": 1150,
+      "recruitment_acceleration": 32,
+      "daily_strategypoint_bonus": 15,
+      "construction_reduction": 15,
+      "medals": 9000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 13041280,
+      "support_bonus": 5770,
+      "prestige_bonus": 1175,
+      "recruitment_acceleration": 32,
+      "daily_strategypoint_bonus": 15,
+      "construction_reduction": 16,
+      "medals": 9000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 14104460,
+      "support_bonus": 6010,
+      "prestige_bonus": 1200,
+      "recruitment_acceleration": 32,
+      "daily_strategypoint_bonus": 16,
+      "construction_reduction": 16,
+      "medals": 10000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 15231810,
+      "support_bonus": 6250,
+      "prestige_bonus": 1225,
+      "recruitment_acceleration": 34,
+      "daily_strategypoint_bonus": 16,
+      "construction_reduction": 16,
+      "medals": 10000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 16425930,
+      "support_bonus": 6500,
+      "prestige_bonus": 1250,
+      "recruitment_acceleration": 34,
+      "daily_strategypoint_bonus": 16,
+      "construction_reduction": 17,
+      "medals": 11000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 17689460,
+      "support_bonus": 6690,
+      "prestige_bonus": 1275,
+      "recruitment_acceleration": 34,
+      "daily_strategypoint_bonus": 17,
+      "construction_reduction": 17,
+      "medals": 11000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 19025100,
+      "support_bonus": 6880,
+      "prestige_bonus": 1300,
+      "recruitment_acceleration": 36,
+      "daily_strategypoint_bonus": 17,
+      "construction_reduction": 17,
+      "medals": 12000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 20435610,
+      "support_bonus": 7060,
+      "prestige_bonus": 1325,
+      "recruitment_acceleration": 36,
+      "daily_strategypoint_bonus": 17,
+      "construction_reduction": 18,
+      "medals": 13000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 21923800,
+      "support_bonus": 7230,
+      "prestige_bonus": 1350,
+      "recruitment_acceleration": 36,
+      "daily_strategypoint_bonus": 18,
+      "construction_reduction": 18,
+      "medals": 14000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 23492540,
+      "support_bonus": 7400,
+      "prestige_bonus": 1375,
+      "recruitment_acceleration": 38,
+      "daily_strategypoint_bonus": 18,
+      "construction_reduction": 18,
+      "medals": 14000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 25144750,
+      "support_bonus": 7550,
+      "prestige_bonus": 1400,
+      "recruitment_acceleration": 38,
+      "daily_strategypoint_bonus": 18,
+      "construction_reduction": 19,
+      "medals": 15000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 26883410,
+      "support_bonus": 7690,
+      "prestige_bonus": 1425,
+      "recruitment_acceleration": 38,
+      "daily_strategypoint_bonus": 19,
+      "construction_reduction": 19,
+      "medals": 16000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 28711570,
+      "support_bonus": 7830,
+      "prestige_bonus": 1450,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 19,
+      "construction_reduction": 19,
+      "medals": 17000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 30632310,
+      "support_bonus": 7960,
+      "prestige_bonus": 1475,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 19,
+      "construction_reduction": 20,
+      "medals": 17000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 32648790,
+      "support_bonus": 8090,
+      "prestige_bonus": 1500,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 20,
+      "medals": 18000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 34764220,
+      "support_bonus": 8210,
+      "prestige_bonus": 1525,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 21,
+      "medals": 19000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 36981860,
+      "support_bonus": 8320,
+      "prestige_bonus": 1550,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 22,
+      "medals": 20000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 39305040,
+      "support_bonus": 8430,
+      "prestige_bonus": 1575,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 23,
+      "medals": 21000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 41737130,
+      "support_bonus": 8540,
+      "prestige_bonus": 1600,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 24,
+      "medals": 22000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 44281580,
+      "support_bonus": 8640,
+      "prestige_bonus": 1625,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 23000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 46941880,
+      "support_bonus": 8740,
+      "prestige_bonus": 1650,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 24000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 49721580,
+      "support_bonus": 8840,
+      "prestige_bonus": 1675,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 52624300,
+      "support_bonus": 8930,
+      "prestige_bonus": 1700,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 55653710,
+      "support_bonus": 9020,
+      "prestige_bonus": 1725,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 58813530,
+      "support_bonus": 9110,
+      "prestige_bonus": 1750,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 62107550,
+      "support_bonus": 9190,
+      "prestige_bonus": 1775,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 65539620,
+      "support_bonus": 9270,
+      "prestige_bonus": 1800,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 69113650,
+      "support_bonus": 9350,
+      "prestige_bonus": 1825,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 72833590,
+      "support_bonus": 9430,
+      "prestige_bonus": 1850,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 76703470,
+      "support_bonus": 9510,
+      "prestige_bonus": 1875,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 80727380,
+      "support_bonus": 9580,
+      "prestige_bonus": 1900,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 84909450,
+      "support_bonus": 9650,
+      "prestige_bonus": 1925,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 89253880,
+      "support_bonus": 9720,
+      "prestige_bonus": 1950,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 93764930,
+      "support_bonus": 9790,
+      "prestige_bonus": 1975,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 98446920,
+      "support_bonus": 9850,
+      "prestige_bonus": 2000,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 103304230,
+      "support_bonus": 9920,
+      "prestige_bonus": 2025,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 108341300,
+      "support_bonus": 9980,
+      "prestige_bonus": 2050,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 113562630,
+      "support_bonus": 10040,
+      "prestige_bonus": 2075,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 118972780,
+      "support_bonus": 10110,
+      "prestige_bonus": 2100,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 124576360,
+      "support_bonus": 10160,
+      "prestige_bonus": 2125,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 130378060,
+      "support_bonus": 10220,
+      "prestige_bonus": 2150,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 136382610,
+      "support_bonus": 10280,
+      "prestige_bonus": 2175,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 142594820,
+      "support_bonus": 10340,
+      "prestige_bonus": 2200,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 60000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 149019550,
+      "support_bonus": 10390,
+      "prestige_bonus": 2225,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 155661720,
+      "support_bonus": 10440,
+      "prestige_bonus": 2250,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 162526310,
+      "support_bonus": 10500,
+      "prestige_bonus": 2275,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 169618360,
+      "support_bonus": 10550,
+      "prestige_bonus": 2300,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 176942980,
+      "support_bonus": 10600,
+      "prestige_bonus": 2325,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 184505340,
+      "support_bonus": 10650,
+      "prestige_bonus": 2350,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 192310660,
+      "support_bonus": 10700,
+      "prestige_bonus": 2375,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 200364230,
+      "support_bonus": 10750,
+      "prestige_bonus": 2400,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 208671400,
+      "support_bonus": 10790,
+      "prestige_bonus": 2425,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 217237580,
+      "support_bonus": 10840,
+      "prestige_bonus": 2450,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 226068250,
+      "support_bonus": 10890,
+      "prestige_bonus": 2475,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 235168940,
+      "support_bonus": 10930,
+      "prestige_bonus": 2500,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    }
+  ],
+  "settings": {
+    "join": "application",
+    "__class__": "ClanSettings"
+  },
+  "treasury_id": 32282,
+  "trophies": {
+    "guild_championship_trophy_gold": 159,
+    "guild_championship_trophy_silver": 81,
+    "guild_championship_trophy_bronze": 14
+  },
+  "league": {
+    "id": "gold",
+    "name": "Liga Oro",
+    "rating": 650,
+    "__class__": "GuildBattlegroundLeague"
+  },
+  "gbgStatistics": [
+    {
+      "leagueId": "diamond",
+      "participationCount": 54,
+      "wonCount": 1,
+      "__class__": "GuildBattlegroundStatistics"
+    },
+    {
+      "leagueId": "platinum",
+      "participationCount": 16,
+      "wonCount": 4,
+      "__class__": "GuildBattlegroundStatistics"
+    }
+  ],
+  "__class__": "Clan"
+}
