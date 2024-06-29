@@ -1,0 +1,4748 @@
+[
+  {
+    "rank": 1,
+    "clan": {
+      "id": 3,
+      "name": "LEONES BLANCOS",
+      "membersNum": 42,
+      "flag": "flag_9",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 32901,
+    "championshipsWon": 1,
+    "reward": {
+      "assetId": "guild_raids_chest_1",
+      "guildReward": {
+        "guildPower": 3276000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "golden_upgrade_kit_GR23A",
+          "name": "Kit de Mejora dorado de Neo Coloso",
+          "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+          "iconAssetName": "golden_upgrade_kit_GR23A",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "silver_upgrade_kit_GR23A",
+          "name": "Kit de Mejora plateado de Neo Coloso",
+          "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+          "iconAssetName": "silver_upgrade_kit_GR23A",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "upgrade_kit_GR24A",
+          "name": "Kit de mejora de Neo Torre del Estratega",
+          "description": "Actualiza tu TNeo Torre del Estratega a una versión mejorada que producirá más recursos",
+          "iconAssetName": "upgrade_kit_GR24A",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "upgrade_kit_GR24B",
+          "name": "Kit de mejora del Neo Puesto de Avanzada Centinela",
+          "description": "Actualiza tu Neo Puesto de Avanzada Centinela a una versión mejorada que producirá más recursos.",
+          "iconAssetName": "upgrade_kit_GR24B",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 5000,
+          "id": "resource#strategy_points#5000",
+          "name": "5,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 300000,
+          "id": "resource#guild_raids_medals#300000",
+          "name": "300,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 2,
+    "clan": {
+      "id": 838,
+      "name": "Praetorian’s",
+      "membersNum": 40,
+      "flag": "flag_3",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 25748,
+    "reward": {
+      "assetId": "guild_raids_chest_2",
+      "guildReward": {
+        "guildPower": 2184000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 500,
+          "id": "fragment#golden_upgrade_kit_GR23A#500",
+          "name": "500 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "silver_upgrade_kit_GR23A",
+          "name": "Kit de Mejora plateado de Neo Coloso",
+          "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+          "iconAssetName": "silver_upgrade_kit_GR23A",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "upgrade_kit_GR24A",
+          "name": "Kit de mejora de Neo Torre del Estratega",
+          "description": "Actualiza tu TNeo Torre del Estratega a una versión mejorada que producirá más recursos",
+          "iconAssetName": "upgrade_kit_GR24A",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "upgrade_kit_GR24B",
+          "name": "Kit de mejora del Neo Puesto de Avanzada Centinela",
+          "description": "Actualiza tu Neo Puesto de Avanzada Centinela a una versión mejorada que producirá más recursos.",
+          "iconAssetName": "upgrade_kit_GR24B",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 4000,
+          "id": "resource#strategy_points#4000",
+          "name": "4,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 240000,
+          "id": "resource#guild_raids_medals#240000",
+          "name": "240,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 3,
+    "clan": {
+      "id": 55,
+      "name": "El Kraken",
+      "membersNum": 54,
+      "flag": "flag_31",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 20648,
+    "reward": {
+      "assetId": "guild_raids_chest_3",
+      "guildReward": {
+        "guildPower": 1092000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#golden_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 500,
+          "id": "fragment#silver_upgrade_kit_GR23A#500",
+          "name": "500 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "upgrade_kit_GR24A",
+          "name": "Kit de mejora de Neo Torre del Estratega",
+          "description": "Actualiza tu TNeo Torre del Estratega a una versión mejorada que producirá más recursos",
+          "iconAssetName": "upgrade_kit_GR24A",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "upgrade_kit",
+          "amount": 1,
+          "id": "upgrade_kit_GR24B",
+          "name": "Kit de mejora del Neo Puesto de Avanzada Centinela",
+          "description": "Actualiza tu Neo Puesto de Avanzada Centinela a una versión mejorada que producirá más recursos.",
+          "iconAssetName": "upgrade_kit_GR24B",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 3000,
+          "id": "resource#strategy_points#3000",
+          "name": "3,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 180000,
+          "id": "resource#guild_raids_medals#180000",
+          "name": "180,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 4,
+    "clan": {
+      "id": 9,
+      "name": "Clan de los D. 💮",
+      "membersNum": 14,
+      "flag": "flag_30",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 16588,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 5,
+    "clan": {
+      "id": 59,
+      "name": "Mugiwaras Pirates",
+      "membersNum": 80,
+      "flag": "flag_31_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 12088,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 6,
+    "clan": {
+      "id": 36,
+      "name": "Andaluz",
+      "membersNum": 31,
+      "flag": "flag_32",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 11772,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 7,
+    "clan": {
+      "id": 1801,
+      "name": "ɢᴇɴ'ᴇɪ ʀʏᴏᴅᴀɴ",
+      "membersNum": 39,
+      "flag": "premium_flag_6",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 10456,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 8,
+    "clan": {
+      "id": 372,
+      "name": "B.Y.O.B.",
+      "membersNum": 10,
+      "flag": "premium_flag_5",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 9704,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 9,
+    "clan": {
+      "id": 811,
+      "name": "Dioses  de guerra",
+      "membersNum": 25,
+      "flag": "premium_flag_7",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 8948,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 10,
+    "clan": {
+      "id": 1422,
+      "name": "Los Antiguos Magos",
+      "membersNum": 27,
+      "flag": "flag_27_R",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 8004,
+    "reward": {
+      "assetId": "guild_raids_chest_4",
+      "guildReward": {
+        "guildPower": 546000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 100,
+          "id": "fragment#golden_upgrade_kit_GR23A#100",
+          "name": "100 fragmentos de Kit de Mejora dorado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora dorado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "golden_upgrade_kit_GR23A",
+            "name": "Kit de Mejora dorado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su mejor versión!",
+            "iconAssetName": "golden_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "fragment",
+          "amount": 250,
+          "id": "fragment#silver_upgrade_kit_GR23A#250",
+          "name": "250 fragmentos de Kit de Mejora plateado de Neo Coloso",
+          "description": "Recolecta suficientes fragmentos para armar Kit de Mejora plateado de Neo Coloso",
+          "iconAssetName": "icon_fragment",
+          "flags": [],
+          "boostValue": 1,
+          "assembledReward": {
+            "type": "consumable",
+            "subType": "upgrade_kit",
+            "amount": 1,
+            "id": "silver_upgrade_kit_GR23A",
+            "name": "Kit de Mejora plateado de Neo Coloso",
+            "description": "¡Mejora tu Neo Coloso a su segunda mejor versión!",
+            "iconAssetName": "silver_upgrade_kit_GR23A",
+            "flags": [
+              "epic"
+            ],
+            "boostValue": 1,
+            "__class__": "GenericReward"
+          },
+          "requiredAmount": 1000,
+          "__class__": "FragmentReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 2000,
+          "id": "resource#strategy_points#2000",
+          "name": "2,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 120000,
+          "id": "resource#guild_raids_medals#120000",
+          "name": "120,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 11,
+    "clan": {
+      "id": 2189,
+      "name": "Monapolis",
+      "membersNum": 13,
+      "flag": "flag_3",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 7260,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 12,
+    "clan": {
+      "id": 1767,
+      "name": "Roble",
+      "membersNum": 9,
+      "flag": "flag_21",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 6268,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 13,
+    "clan": {
+      "id": 2116,
+      "name": "Los Mercen@rios",
+      "membersNum": 24,
+      "flag": "flag_14_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 5936,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 14,
+    "clan": {
+      "id": 204,
+      "name": "Illuminattiss",
+      "membersNum": 25,
+      "flag": "flag_30",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 4004,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 15,
+    "clan": {
+      "id": 2225,
+      "name": "⛩️WolfKings⛩️",
+      "membersNum": 3,
+      "flag": "flag_27_R",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 4004,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 16,
+    "clan": {
+      "id": 79,
+      "name": "REYES DE  AMERICA",
+      "membersNum": 80,
+      "flag": "flag_3_G",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 2324,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 17,
+    "clan": {
+      "id": 318,
+      "name": "Moon Walkers",
+      "membersNum": 76,
+      "flag": "premium_flag_12",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 2140,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 18,
+    "clan": {
+      "id": 23,
+      "name": "☣DARK ARMY☣️",
+      "membersNum": 6,
+      "flag": "premium_flag_7",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 2116,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 19,
+    "clan": {
+      "id": 1501,
+      "name": "Nación Latina",
+      "membersNum": 19,
+      "flag": "flag_17_G",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 2112,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 20,
+    "clan": {
+      "id": 520,
+      "name": "CDMX",
+      "membersNum": 77,
+      "flag": "flag_14",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 2112,
+    "reward": {
+      "assetId": "guild_raids_chest_5",
+      "guildReward": {
+        "guildPower": 382200,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24B1",
+          "amount": 1,
+          "id": "building_GR24B",
+          "name": "Neo Puesto de Avanzada Centinela - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 1000,
+          "id": "resource#strategy_points#1000",
+          "name": "1,000 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 60000,
+          "id": "resource#guild_raids_medals#60000",
+          "name": "60,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 21,
+    "clan": {
+      "id": 1710,
+      "name": "🎖ARGAD🎖",
+      "membersNum": 5,
+      "flag": "flag_21_R",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1684,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 22,
+    "clan": {
+      "id": 1910,
+      "name": "Pueblo Mágico",
+      "membersNum": 2,
+      "flag": "flag_30",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1576,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 23,
+    "clan": {
+      "id": 702,
+      "name": "México II",
+      "membersNum": 19,
+      "flag": "flag_17",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1424,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 24,
+    "clan": {
+      "id": 395,
+      "name": "LOBOS  D€ FU€GO",
+      "membersNum": 1,
+      "flag": "flag_25",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1356,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 25,
+    "clan": {
+      "id": 1278,
+      "name": "sin complejos",
+      "membersNum": 80,
+      "flag": "flag_18_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1244,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 26,
+    "clan": {
+      "id": 41,
+      "name": "clan jinchūriki",
+      "membersNum": 2,
+      "flag": "flag_3_G",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1224,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 27,
+    "clan": {
+      "id": 885,
+      "name": "La orden del ECLIPSE",
+      "membersNum": 3,
+      "flag": "flag_21_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1176,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 28,
+    "clan": {
+      "id": 7,
+      "name": "DENALI",
+      "membersNum": 20,
+      "flag": "flag_27_R",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 1148,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 29,
+    "clan": {
+      "id": 2308,
+      "name": "Fuertes y dignos! 🤝",
+      "membersNum": 7,
+      "flag": "flag_9_G",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 984,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 30,
+    "clan": {
+      "id": 54,
+      "name": "Universo",
+      "membersNum": 48,
+      "flag": "flag_5_R",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 832,
+    "reward": {
+      "assetId": "guild_raids_chest_6",
+      "guildReward": {
+        "guildPower": 273000,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "consumable",
+          "subType": "selection_kit",
+          "amount": 1,
+          "id": "selection_kit_neo_colossus",
+          "name": "Kit de Selección de Neo Coloso",
+          "description": "Elige entre un Kit de mejora o el Edificio base para el Neo Coloso",
+          "iconAssetName": "selection_kit_neo_colossus",
+          "flags": [
+            "epic"
+          ],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 500,
+          "id": "resource#strategy_points#500",
+          "name": "500 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 30000,
+          "id": "resource#guild_raids_medals#30000",
+          "name": "30,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 31,
+    "clan": {
+      "id": 2338,
+      "name": "Centauros de Páez",
+      "membersNum": 1,
+      "flag": "flag_17",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 788,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 32,
+    "clan": {
+      "id": 1685,
+      "name": "TARTARO",
+      "membersNum": 7,
+      "flag": "flag_14_R",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 772,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 33,
+    "clan": {
+      "id": 2254,
+      "name": "Solo por placer ⚔️",
+      "membersNum": 1,
+      "flag": "flag_8",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 764,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 34,
+    "clan": {
+      "id": 972,
+      "name": "y ahora son mas...",
+      "membersNum": 4,
+      "flag": "flag_3_G",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 636,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 35,
+    "clan": {
+      "id": 553,
+      "name": "Perseverantes",
+      "membersNum": 5,
+      "flag": "flag_28_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 616,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 36,
+    "clan": {
+      "id": 2172,
+      "name": "León Ganador",
+      "membersNum": 1,
+      "flag": "flag_27_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 596,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 37,
+    "clan": {
+      "id": 1313,
+      "name": "kaibil's",
+      "membersNum": 2,
+      "flag": "flag_16_G",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 544,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 38,
+    "clan": {
+      "id": 2249,
+      "name": "Izan",
+      "membersNum": 1,
+      "flag": "flag_14",
+      "description": "",
+      "settings": {
+        "join": "application",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 492,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 39,
+    "clan": {
+      "id": 382,
+      "name": "Crezcamos Juntos",
+      "membersNum": 5,
+      "flag": "flag_14_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 488,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 40,
+    "clan": {
+      "id": 2182,
+      "name": "El Gremius",
+      "membersNum": 1,
+      "flag": "flag_30",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 472,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 41,
+    "clan": {
+      "id": 1733,
+      "name": "Chambord",
+      "membersNum": 1,
+      "flag": "flag_2",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 428,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 42,
+    "clan": {
+      "id": 1682,
+      "name": "capital city",
+      "membersNum": 1,
+      "flag": "flag_2",
+      "description": "",
+      "settings": {
+        "join": "invitation",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 428,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 43,
+    "clan": {
+      "id": 2302,
+      "name": "imperio",
+      "membersNum": 1,
+      "flag": "flag_27",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 416,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 44,
+    "clan": {
+      "id": 2231,
+      "name": "Casual",
+      "membersNum": 1,
+      "flag": "flag_24_R",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 404,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 45,
+    "clan": {
+      "id": 1170,
+      "name": "SALEM",
+      "membersNum": 4,
+      "flag": "flag_19",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 372,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 46,
+    "clan": {
+      "id": 131,
+      "name": "DRUIDA",
+      "membersNum": 6,
+      "flag": "flag_27",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 360,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 47,
+    "clan": {
+      "id": 134,
+      "name": "apocalipsis",
+      "membersNum": 15,
+      "flag": "flag_6",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 344,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 48,
+    "clan": {
+      "id": 426,
+      "name": "los jefes",
+      "membersNum": 7,
+      "flag": "flag_31",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 296,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 49,
+    "clan": {
+      "id": 848,
+      "name": "Imperio Azteca",
+      "membersNum": 51,
+      "flag": "flag_25",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 256,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  },
+  {
+    "rank": 50,
+    "clan": {
+      "id": 183,
+      "name": "ELITE IMPERIUS",
+      "membersNum": 75,
+      "flag": "flag_3",
+      "description": "",
+      "settings": {
+        "join": "autojoin",
+        "__class__": "ClanSettings"
+      },
+      "__class__": "Clan"
+    },
+    "points": 236,
+    "reward": {
+      "assetId": "guild_raids_chest_7",
+      "guildReward": {
+        "guildPower": 163800,
+        "__class__": "GuildRaidsGuildReward"
+      },
+      "playerRewards": [
+        {
+          "type": "building",
+          "subType": "W_MultiAge_GR24A1",
+          "amount": 1,
+          "id": "building_GR24A",
+          "name": "Neo Torre del Estratega - Nv. 1",
+          "description": "",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "strategy_points",
+          "amount": 250,
+          "id": "resource#strategy_points#250",
+          "name": "250 Puntos Forge",
+          "description": "Usa Puntos Forge para investigar una tecnología o contribuye en Grandes Edificios.",
+          "iconAssetName": "forgepoints",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        },
+        {
+          "type": "resource",
+          "subType": "guild_raids_medals",
+          "amount": 15000,
+          "id": "resource#guild_raids_medals#15000",
+          "name": "15,000 Medallas cuánticas",
+          "description": "Las Medallas cuánticas pueden obtenerse como recompensa en Incursiones Cuánticas. Úsalas para adquirir Expansiones Cuánticas para tu ciudad principal.",
+          "iconAssetName": "guild_raids_medals",
+          "flags": [],
+          "boostValue": 1,
+          "__class__": "GenericReward"
+        }
+      ],
+      "__class__": "GuildRaidsLeaderboardReward"
+    },
+    "__class__": "GuildRaidsClanGlobalRanking"
+  }
+]

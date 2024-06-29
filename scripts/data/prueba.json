@@ -1,0 +1,10 @@
+{
+    "12345": {
+        "name": "Nuevo Nombre del Guild",
+        "members": 50
+    },
+    "67890": {
+        "name": "Segundo Guild",
+        "members": 30
+    }
+}
