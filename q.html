@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Data Table</title>
+    <link rel="stylesheet" href="assets/bootstrap.min.css">
+    <link rel="stylesheet" href="styleown.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abel&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="container mb-4 mt-4">
+            <div class="h2 contentHeading text-white text-center" id="nick-user"></div>
+            <div class="bigbtnContainer justify-content-center row">
+                <a class="bigbtn col-auto" href="guilds.html">Gremios</a>                        
+                <a class="bigbtn col-auto" href="players.html">Jugadores</a> 
+                <a class="bigbtn col-auto" href="neighboors.html">Vecinos</a> 
+                <a class="bigbtn col-auto" href="q.html">Quánticos</a> 
+            </div>
+        </div>
+    </div>  
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="bg-white rounded shadow p-2">
+                    <h1 class="text-center my-4">Ranking Q</h1>
+                    <canvas id="prestige-chart1" width="600" height="300"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+    </div>
+
+    <script type="module" src="scripts/qchart.js"></script>
+</body>
+</html>

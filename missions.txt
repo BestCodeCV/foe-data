@@ -1,0 +1,9 @@
+3: Destapa mezclar todos en el tablero- Terminar producción de 1 hora 5 veces 
+4: Descubre 2 fichas en el tablero - recluta 10 unidades de tu era
+5: Gana 15 batallas consecutivas
+6: Completa 6 encuentros negociando 
+7: Destapa 1 mostrar 2 en el tablero - Terminar producción de 1 hora 10 veces 
+8: Descubre 3 fichas en el tablero - Paga 500 bienes 
+9: Descubre 3 fichas en el tablero - Compra 23 pfs
+10: Descubre 4 fichas en el tablero - Aporta 300 pfs a Grandes edificios
+11: Destapa 1 premio doble en el tablero - Completa una producción de 4 horas 15 veces en un edificio de producción 

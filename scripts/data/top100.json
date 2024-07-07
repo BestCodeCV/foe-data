@@ -1,0 +1,69 @@
+[
+    {
+      "buildingId": "guild_command_post_improvised",
+      "costs": {
+        "resources": {
+          "limestone": 2900
+        
+    {
+      "buildingId": "guild_command_post_forward",
+      "costs": {
+        "resources": {
+          "cloth": 4161,
+          "biogeochemical_data": 321,
+          "purified_water": 718
+        
+    {
+      "buildingId": "guild_command_post_fortified",
+      "costs": {
+        "resources": {
+          "purified_water": 4015,
+          "gems": 2468,
+          "superconductors": 517
+        
+    {
+      "buildingId": "barracks_improvised",
+      "costs": {
+        "resources": {
+          "cloth": 1840,
+          "lead": 429,
+          "gems": 531
+        
+    {
+      "buildingId": "barracks",
+      "costs": {
+        "resources": {
+          "limestone": 3847,
+          "gems": 1153
+        
+    {
+      "buildingId": "barracks_reinforced",
+      "costs": {
+        "resources": {
+          "lead": 6045,
+          "algae": 755
+        
+    {
+      "buildingId": "watchtower",
+      "costs": {
+        "resources": {
+          "biogeochemical_data": 2,
+          "gems": 31,
+          "nanoparticles": 467
+        
+    {
+      "buildingId": "decoys",
+      "costs": {
+        "resources": {
+          "superconductors": 321,
+          "algae": 31,
+          "lead": 148
+        
+    {
+      "buildingId": "traps",
+      "costs": {
+        "resources": {
+          "algae": 649,
+          "purified_water": 1642,
+          "limestone": 709
+        }

@@ -1,0 +1,3777 @@
+{
+  "id": 838,
+  "name": "Praetorian’s",
+  "membersNum": 38,
+  "flag": "flag_3",
+  "description": "\nLos que quieran ser aguilas vuelen con nosotros, los que quieran ser gusanos que se arrastren pero que no se quejen cuando los pisen.\n\nGremio de jugadores de elite o que aspiren a serlo. Se pide colaboración total, se apoya a los miembros a desarrollar su maximo potencial, pero se exige compromiso de colaboración con los compañeros para lograr los objetivos del gremio.\n\nLíderes experimentados que te ayudarán a desarrollar tu maximo potencial.\n\nTodos terminamos la expedición, no por que se nos exija, sino por que es muy fácil para nosotros hacerla y nos gustan los premios.\nDestrozamos a otros gremios en la batalla de gremios, solo por el gusto de hacerlo.\n\nQuieres entrar, aplica, el único compromiso es q todos los días, semanas y meses se trabaje duro para ser parte de las fuerzas de élite de este mundo.\n\nSolo jugadores serios y comprometidos.",
+  "level": 88,
+  "points": 148480821,
+  "rank": 1,
+  "prestige": 45080,
+  "members": [
+    {
+      "player_id": 310325,
+      "name": "Aquiles 2014",
+      "avatar": "addon_portrait_id_history24_5",
+      "score": 1330082380,
+      "rank": 1,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Aquiles 2014",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 350355,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "billy_the_kid",
+            "name": "El niño Billy",
+            "descriptionTemplate": "Saquea %s/%s edificios",
+            "descriptionCityTooltip": "Saquea %s edificios",
+            "currentLevel": {
+              "level": 3,
+              "progress": 2704,
+              "requiredProgress": 1500,
+              "obtainedAt": 1556469017,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 3000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "very_dangerous_i_go_first",
+            "name": "Muy peligroso... Iré primero.",
+            "descriptionTemplate": "Termina el cuarto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el cuarto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 217,
+              "requiredProgress": 50,
+              "obtainedAt": 1611448802,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "up_it_goes",
+            "name": "Allá va",
+            "descriptionTemplate": "Activa %s/%s mejoras en tu Taberna de Amigos.",
+            "descriptionCityTooltip": "Activa %s mejoras de tu Taberna de Amigos.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1920,
+              "requiredProgress": 500,
+              "obtainedAt": 1568993632,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "permissions": 2,
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 891490,
+      "name": "XTX el Ejecutor",
+      "avatar": "addon_portrait_id_gex5_coatl",
+      "score": 1305684477,
+      "rank": 2,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "El que quiera ser aguila que vuele, el que quiera ser gusano que se arrastre pero que no grite cuando lo pisen. Desde los cielos los vere.",
+      "city_name": "Esparta",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 317887,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 270222,
+              "requiredProgress": 50000,
+              "obtainedAt": 1620780121,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "great_commander",
+            "name": "Gran comandante",
+            "descriptionTemplate": "Gana %s/%s batallas en la Arena PvP",
+            "descriptionCityTooltip": "Gana %s batallas en la Arena PvP",
+            "currentLevel": {
+              "level": 4,
+              "progress": 9334,
+              "requiredProgress": 1500,
+              "obtainedAt": 1630762275,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 1500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "impressive_penacho",
+            "name": "Penacho impresionante",
+            "descriptionTemplate": "Recolecta %s/%s retrato(s) del quinto nivel de dificultad de la expedición.",
+            "descriptionCityTooltip": "Recolecta %s retrato(s) del quinto nivel de dificultad de la expedición.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 17,
+              "requiredProgress": 12,
+              "obtainedAt": 1691183887,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 18,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "permissions": 3,
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 963575,
+      "name": "mauch8420",
+      "avatar": "portrait_id_132",
+      "score": 1125331877,
+      "rank": 3,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Mictlan",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 330367,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeTitan",
+      "permissions": 3,
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1269134,
+      "name": "Sighi",
+      "avatar": "addon_portrait_id_235",
+      "score": 880734269,
+      "rank": 4,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "🇲🇽",
+      "city_name": "🇲🇽",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 213753,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "impressive_defender",
+            "name": "Defensor impresionante",
+            "descriptionTemplate": "Termina el quinto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el quinto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 36,
+              "requiredProgress": 20,
+              "obtainedAt": 1705927540,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "impressive_architect",
+            "name": "Arquitecto impresionante",
+            "descriptionTemplate": "Construye %s/%s fortificaciones en el quinto nivel de dificultad de la expedición.",
+            "descriptionCityTooltip": "Construye %s fortificaciones en el quinto nivel de dificultad de la expedición.",
+            "currentLevel": {
+              "level": 2,
+              "progress": 38,
+              "requiredProgress": 10,
+              "obtainedAt": 1712851755,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 100,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "impressive_penacho",
+            "name": "Penacho impresionante",
+            "descriptionTemplate": "Recolecta %s/%s retrato(s) del quinto nivel de dificultad de la expedición.",
+            "descriptionCityTooltip": "Recolecta %s retrato(s) del quinto nivel de dificultad de la expedición.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 16,
+              "requiredProgress": 12,
+              "obtainedAt": 1697925297,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 18,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 417012,
+      "name": "Malayo",
+      "avatar": "addon_portrait_id_322",
+      "score": 810273653,
+      "rank": 5,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Malayo",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 231330,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1174250,
+      "name": "Chien",
+      "avatar": "addon_portrait_id_history24_1",
+      "score": 699626707,
+      "rank": 6,
+      "is_friend": true,
+      "is_guild_member": true,
+      "profile_text": "Apórtame puntos, aun soy peque. ",
+      "city_name": "KSA",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 174291,
+      "has_great_building": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "forward_to_the_future",
+            "name": "Avanzar hacia el futuro",
+            "descriptionTemplate": "Alcanza %s/%s eras",
+            "descriptionCityTooltip": "Alcanza %s eras",
+            "currentLevel": {
+              "level": 4,
+              "progress": 21,
+              "requiredProgress": 15,
+              "obtainedAt": 1646352837,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 15,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "billy_the_kid",
+            "name": "El niño Billy",
+            "descriptionTemplate": "Saquea %s/%s edificios",
+            "descriptionCityTooltip": "Saquea %s edificios",
+            "currentLevel": {
+              "level": 3,
+              "progress": 2689,
+              "requiredProgress": 1500,
+              "obtainedAt": 1618284715,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 3000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "great_wall_of_china",
+            "name": "Gran Muralla China",
+            "descriptionTemplate": "Defiende tu ciudad %s/%s veces",
+            "descriptionCityTooltip": "Defiende tu ciudad %s veces",
+            "currentLevel": {
+              "level": 3,
+              "progress": 207,
+              "requiredProgress": 200,
+              "obtainedAt": 1711942999,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "permissions": 2,
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1245566,
+      "name": "Oscar I",
+      "avatar": "addon_portrait_id_pat24_6",
+      "score": 638952468,
+      "rank": 7,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizad",
+      "city_name": "Ciudad de Oscar",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 162529,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "how_pretty",
+            "name": "¡Qué preciosidad!",
+            "descriptionTemplate": "Construye %s/%s Decoraciones",
+            "descriptionCityTooltip": "Construye %s decoraciones",
+            "currentLevel": {
+              "level": 4,
+              "progress": 2655,
+              "requiredProgress": 500,
+              "obtainedAt": 1629346320,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "all_roads_lead_to_rome",
+            "name": "Todos los caminos llevan a Roma",
+            "descriptionTemplate": "Construye %s/%s Carreteras",
+            "descriptionCityTooltip": "Construye %s carreteras",
+            "currentLevel": {
+              "level": 4,
+              "progress": 6236,
+              "requiredProgress": 2000,
+              "obtainedAt": 1637915792,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 2000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "dont_call_me_junior",
+            "name": "¡No me llames novato!",
+            "descriptionTemplate": "Completa %s/%s mapas de expedición.",
+            "descriptionCityTooltip": "Completa %s mapas de expedición.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 644,
+              "requiredProgress": 150,
+              "obtainedAt": 1633663423,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 150,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 947454,
+      "name": "cirilita Saqueadora",
+      "avatar": "addon_portrait_id_fall23_2",
+      "score": 584289135,
+      "rank": 8,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "",
+      "city_name": "Saqueadora0327",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 149740,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "overtherainbow",
+            "name": "Sobre el Arcoíris",
+            "descriptionTemplate": "Avanza por %s/%s ciudades en el Evento del Día de San Patricio",
+            "descriptionCityTooltip": "Avanza por %s ciudades en el Evento del Día de San Patricio",
+            "currentLevel": {
+              "level": 3,
+              "progress": 23,
+              "requiredProgress": 15,
+              "obtainedAt": 1677164915,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 4,
+              "progress": 25,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "bejeweled_bliss",
+            "name": "Dicha de joyas",
+            "descriptionTemplate": "Abre todos los espacios del calendario de arqueología al final del evento de arqueología",
+            "descriptionCityTooltip": "Abre todos los espacios del calendario de arqueología al final del evento de arqueología",
+            "currentLevel": {
+              "level": 1,
+              "progress": 1,
+              "requiredProgress": 1,
+              "obtainedAt": 1653203043,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 1,
+              "progress": 2,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "fairground_findings",
+            "name": "Descubrimientos de la Feria",
+            "descriptionTemplate": "Termina %d/%d series de misiones de la colección de juguetes",
+            "descriptionCityTooltip": "Termina %d series de misiones de la colección de juguetes",
+            "currentLevel": {
+              "level": 3,
+              "progress": 16,
+              "requiredProgress": 10,
+              "obtainedAt": 1668097334,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 20,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 662615,
+      "name": "Zijronó Liberajá",
+      "avatar": "portrait_id_76",
+      "score": 526817909,
+      "rank": 9,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "CHARLY15, Diana Cazadora, Avatar Korra, Diana Jacobs. ZIJRONO LIBERAJA. Bendita sea su Memoria.",
+      "city_name": "Palestine 🇵🇸",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 121398,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 92682,
+              "requiredProgress": 50000,
+              "obtainedAt": 1664586582,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "veni_vidi_vici",
+            "name": "Veni Vidi Vici ",
+            "descriptionTemplate": "Adquiere %s/%s provincias",
+            "descriptionCityTooltip": "Adquiere %s provincias",
+            "currentLevel": {
+              "level": 4,
+              "progress": 481,
+              "requiredProgress": 250,
+              "obtainedAt": 1602176642,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 250,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "urbanisation",
+            "name": "Urbanización",
+            "descriptionTemplate": "Ten %s/%s expansiones",
+            "descriptionCityTooltip": "Ten %s expansiones",
+            "currentLevel": {
+              "level": 4,
+              "progress": 548,
+              "requiredProgress": 150,
+              "obtainedAt": 1561695136,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 150,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 951744,
+      "name": "Espiri 1000",
+      "avatar": "portrait_id_1",
+      "score": 500155485,
+      "rank": 10,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Espiri 1000",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 88775,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "billy_the_kid",
+            "name": "El niño Billy",
+            "descriptionTemplate": "Saquea %s/%s edificios",
+            "descriptionCityTooltip": "Saquea %s edificios",
+            "currentLevel": {
+              "level": 2,
+              "progress": 571,
+              "requiredProgress": 250,
+              "obtainedAt": 1540171242,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 1500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "one_of_many_faces",
+            "name": "Una de muchas caras",
+            "descriptionTemplate": "Siéntate en %s/%s tabernas de tus amigos.",
+            "descriptionCityTooltip": "Siéntate en %s tabernas de tus amigos.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 7789,
+              "requiredProgress": 7500,
+              "obtainedAt": 1662913805,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 20000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1215631,
+      "name": "Alejandro el poderoso.",
+      "avatar": "portrait_id_21",
+      "score": 333988665,
+      "rank": 11,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Alejandro",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 90595,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "home_sweet_home",
+            "name": "Hogar, dulce hogar",
+            "descriptionTemplate": "Construye %s/%s Edificios Residenciales",
+            "descriptionCityTooltip": "Construye %s edificios residenciales",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1148,
+              "requiredProgress": 250,
+              "obtainedAt": 1584506067,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 250,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "lock_and_load",
+            "name": "Preparados y listos",
+            "descriptionTemplate": "Construye %s/%s Edificios Militares",
+            "descriptionCityTooltip": "Construye %s edificios militares",
+            "currentLevel": {
+              "level": 3,
+              "progress": 82,
+              "requiredProgress": 50,
+              "obtainedAt": 1592517001,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 100,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 65479,
+              "requiredProgress": 50000,
+              "obtainedAt": 1692231715,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 628019,
+      "name": "Yo 19 el generoso",
+      "avatar": "addon_portrait_id_cop_polynesia_nafanua",
+      "score": 305074459,
+      "rank": 12,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Yo 19 el generoso",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 84210,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1437190,
+      "name": "Julián de Juliantla",
+      "avatar": "addon_portrait_id_cop_aztecs_acamapichtli",
+      "score": 298095262,
+      "rank": 13,
+      "is_guild_member": true,
+      "profile_text": "Conquistando ",
+      "city_name": "Jaramillo",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 85017,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 62688,
+              "requiredProgress": 50000,
+              "obtainedAt": 1708660816,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "impressive_defender",
+            "name": "Defensor impresionante",
+            "descriptionTemplate": "Termina el quinto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el quinto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 40,
+              "requiredProgress": 20,
+              "obtainedAt": 1707048510,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "impressive_penacho",
+            "name": "Penacho impresionante",
+            "descriptionTemplate": "Recolecta %s/%s retrato(s) del quinto nivel de dificultad de la expedición.",
+            "descriptionCityTooltip": "Recolecta %s retrato(s) del quinto nivel de dificultad de la expedición.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 16,
+              "requiredProgress": 12,
+              "obtainedAt": 1707048054,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 18,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeVenus",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849283911,
+      "name": "El Michi",
+      "avatar": "addon_portrait_id_486",
+      "score": 269281426,
+      "rank": 14,
+      "is_guild_member": true,
+      "profile_text": "...",
+      "city_name": "GatoSilva City",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 38447,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "throw_me_the_idol",
+            "name": "¡Arrójame el ídolo!",
+            "descriptionTemplate": "Recolecta %s/%s reliquias poco comunes.",
+            "descriptionCityTooltip": "Recolecta %s reliquias poco comunes.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 378,
+              "requiredProgress": 200,
+              "obtainedAt": 1683784032,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 200,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "it_belongs_in_a_museum",
+            "name": "¡Debería estar en un museo!",
+            "descriptionTemplate": "Recolecta %s/%s reliquias raras.",
+            "descriptionCityTooltip": "Recolecta %s reliquias raras.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 187,
+              "requiredProgress": 50,
+              "obtainedAt": 1675362246,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "very_dangerous_i_go_first",
+            "name": "Muy peligroso... Iré primero.",
+            "descriptionTemplate": "Termina el cuarto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el cuarto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 40,
+              "requiredProgress": 20,
+              "obtainedAt": 1667021204,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeJupiterMoon",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849353904,
+      "name": "God Uchiha",
+      "avatar": "portrait_id_73",
+      "score": 223778469,
+      "rank": 15,
+      "is_friend": true,
+      "is_guild_member": true,
+      "profile_text": "༼ つ ◕_◕ ༽つ",
+      "city_name": "TJ 664",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 87196,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 64655,
+              "requiredProgress": 50000,
+              "obtainedAt": 1712027298,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "very_dangerous_i_go_first",
+            "name": "Muy peligroso... Iré primero.",
+            "descriptionTemplate": "Termina el cuarto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el cuarto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 61,
+              "requiredProgress": 50,
+              "obtainedAt": 1712558077,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "silver_collector",
+            "name": "Coleccionista de plata",
+            "descriptionTemplate": "Gana %s/%s de Plata de Taberna.",
+            "descriptionCityTooltip": "Gana %s de Plata de Taberna.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1758522,
+              "requiredProgress": 1000000,
+              "obtainedAt": 1694626436,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 1000000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeAsteroidBelt",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 958624,
+      "name": "6929",
+      "avatar": "addon_portrait_id_wild24_4",
+      "score": 222743778,
+      "rank": 16,
+      "is_friend": true,
+      "is_guild_member": true,
+      "profile_text": "",
+      "city_name": "Ciudad de 6929",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 72635,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "it_belongs_in_a_museum",
+            "name": "¡Debería estar en un museo!",
+            "descriptionTemplate": "Recolecta %s/%s reliquias raras.",
+            "descriptionCityTooltip": "Recolecta %s reliquias raras.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 478,
+              "requiredProgress": 50,
+              "obtainedAt": 1616306720,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "dont_call_me_junior",
+            "name": "¡No me llames novato!",
+            "descriptionTemplate": "Completa %s/%s mapas de expedición.",
+            "descriptionCityTooltip": "Completa %s mapas de expedición.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 936,
+              "requiredProgress": 150,
+              "obtainedAt": 1592756240,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 150,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "up_it_goes",
+            "name": "Allá va",
+            "descriptionTemplate": "Activa %s/%s mejoras en tu Taberna de Amigos.",
+            "descriptionCityTooltip": "Activa %s mejoras de tu Taberna de Amigos.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1469,
+              "requiredProgress": 500,
+              "obtainedAt": 1601092140,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "FutureEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1095867,
+      "name": "MauricioF",
+      "avatar": "addon_portrait_id_halloween_the_illustrated_man",
+      "score": 222380609,
+      "rank": 17,
+      "is_friend": true,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "En el intento de crear la ciudad perfecta!!",
+      "city_name": "Ciudad de MauricioF",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 51454,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "lock_and_load",
+            "name": "Preparados y listos",
+            "descriptionTemplate": "Construye %s/%s Edificios Militares",
+            "descriptionCityTooltip": "Construye %s edificios militares",
+            "currentLevel": {
+              "level": 4,
+              "progress": 106,
+              "requiredProgress": 100,
+              "obtainedAt": 1650647771,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 100,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "forward_to_the_future",
+            "name": "Avanzar hacia el futuro",
+            "descriptionTemplate": "Alcanza %s/%s eras",
+            "descriptionCityTooltip": "Alcanza %s eras",
+            "currentLevel": {
+              "level": 4,
+              "progress": 20,
+              "requiredProgress": 15,
+              "obtainedAt": 1621289074,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 15,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "great_wall_of_china",
+            "name": "Gran Muralla China",
+            "descriptionTemplate": "Defiende tu ciudad %s/%s veces",
+            "descriptionCityTooltip": "Defiende tu ciudad %s veces",
+            "currentLevel": {
+              "level": 3,
+              "progress": 297,
+              "requiredProgress": 200,
+              "obtainedAt": 1644896449,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeJupiterMoon",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 848931929,
+      "name": "Ch0ry",
+      "avatar": "addon_portrait_id_bowl_dog_mascot",
+      "score": 216639540,
+      "rank": 18,
+      "is_guild_member": true,
+      "profile_text": "BandiT",
+      "city_name": "TroyA",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 88257,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "home_sweet_home",
+            "name": "Hogar, dulce hogar",
+            "descriptionTemplate": "Construye %s/%s Edificios Residenciales",
+            "descriptionCityTooltip": "Construye %s edificios residenciales",
+            "currentLevel": {
+              "level": 4,
+              "progress": 2012,
+              "requiredProgress": 250,
+              "obtainedAt": 1601407854,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 250,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeMars",
+      "permissions": 2,
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 279216,
+      "name": "biopoblano",
+      "avatar": "addon_portrait_id_librarian",
+      "score": 168265604,
+      "rank": 19,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de biopoblano",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 87387,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "OceanicFuture",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1322071,
+      "name": "Dian1285",
+      "avatar": "addon_portrait_id_gex5_eztli",
+      "score": 166780192,
+      "rank": 20,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Dian",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 51670,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeAsteroidBelt",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1047550,
+      "name": "SaMa Builder",
+      "avatar": "portrait_id_129",
+      "score": 158102126,
+      "rank": 21,
+      "is_neighbor": true,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de SaMa Builder",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 22565,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "a_little_help_for_your_friends",
+            "name": "Un poco de ayuda para tus amigos",
+            "descriptionTemplate": "Embellece o motiva %s/%s edificios en las ciudades de otros jugadores",
+            "descriptionCityTooltip": "Embellece o motiva %s edificios en las ciudades de otros jugadores",
+            "currentLevel": {
+              "level": 2,
+              "progress": 32483,
+              "requiredProgress": 10000,
+              "obtainedAt": 1594444363,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "social_network",
+            "name": "La Red Social",
+            "descriptionTemplate": "Ten %s/%s amigos",
+            "descriptionCityTooltip": "Ten %s amigos",
+            "currentLevel": {
+              "level": 4,
+              "progress": 84,
+              "requiredProgress": 100,
+              "obtainedAt": 1648343874,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 100,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "up_it_goes",
+            "name": "Allá va",
+            "descriptionTemplate": "Activa %s/%s mejoras en tu Taberna de Amigos.",
+            "descriptionCityTooltip": "Activa %s mejoras de tu Taberna de Amigos.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1826,
+              "requiredProgress": 500,
+              "obtainedAt": 1612010835,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeTitan",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849134446,
+      "name": "Tintocat",
+      "avatar": "portrait_id_128",
+      "score": 130249978,
+      "rank": 22,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Tintocat",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 94787,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "TomorrowEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849289290,
+      "name": "Euclides 87 el Saqueador",
+      "avatar": "portrait_id_9",
+      "score": 92693724,
+      "rank": 23,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Euclides",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 63924,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "ArcticFuture",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 175421,
+      "name": "jibr0619",
+      "avatar": "addon_portrait_id_castle_system_lothar",
+      "score": 89200036,
+      "rank": 24,
+      "is_guild_member": true,
+      "profile_text": "Nunca digas jamas por que ese día llegara.",
+      "city_name": "3/ 7/ 88",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 41682,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "very_dangerous_i_go_first",
+            "name": "Muy peligroso... Iré primero.",
+            "descriptionTemplate": "Termina el cuarto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el cuarto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 92,
+              "requiredProgress": 50,
+              "obtainedAt": 1630896410,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "cop_japanese",
+            "name": "El Último Samurái",
+            "descriptionTemplate": "Termina %s/%s Asentamientos Feudales Japoneses",
+            "descriptionCityTooltip": "Termina %s Asentamientos Feudales Japoneses",
+            "currentLevel": {
+              "level": 4,
+              "progress": 13,
+              "requiredProgress": 13,
+              "obtainedAt": 1602333776,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 13,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "one_team_one_dream",
+            "name": "Un Equipo, un Sueño",
+            "descriptionTemplate": "¡Gana %s/%s partidos de torneo en el evento de Copa de Fútbol!",
+            "descriptionCityTooltip": "¡Gana %s partidos de torneo en el evento de Copa de Fútbol!",
+            "currentLevel": {
+              "level": 3,
+              "progress": 82,
+              "requiredProgress": 50,
+              "obtainedAt": 1624455584,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 100,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "SpaceAgeMars",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1075763,
+      "name": "Rey Ecrozor",
+      "avatar": "addon_portrait_id_napoleon",
+      "score": 84643510,
+      "rank": 25,
+      "is_guild_member": true,
+      "profile_text": "Si pides mi ayuda te  ayudarte con gusto, Si Decides Atacarme Te Atacare Con Gusto 🛡️⚔️",
+      "city_name": "NAPOLES",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 31082,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 3,
+              "progress": 23529,
+              "requiredProgress": 1000,
+              "obtainedAt": 1566286774,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "veni_vidi_vici",
+            "name": "Veni Vidi Vici ",
+            "descriptionTemplate": "Adquiere %s/%s provincias",
+            "descriptionCityTooltip": "Adquiere %s provincias",
+            "currentLevel": {
+              "level": 3,
+              "progress": 212,
+              "requiredProgress": 100,
+              "obtainedAt": 1587082971,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 250,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "very_dangerous_i_go_first",
+            "name": "Muy peligroso... Iré primero.",
+            "descriptionTemplate": "Termina el cuarto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el cuarto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 53,
+              "requiredProgress": 50,
+              "obtainedAt": 1716337208,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "VirtualFuture",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 753241,
+      "name": "Invassor",
+      "avatar": "addon_portrait_id_270",
+      "score": 78525460,
+      "rank": 26,
+      "is_guild_member": true,
+      "profile_text": "Templo Sagrado, dificil de conquistar, solo los titanes del olimpo se atreven a desafiarlo pero sin exito alguno..",
+      "city_name": "Jardin Sagrado",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 45939,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeMars",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1044383,
+      "name": "HUICHO",
+      "avatar": "portrait_id_145",
+      "score": 76189962,
+      "rank": 27,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de HUICHO",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 52835,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "FutureEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849436550,
+      "name": "cris akazaya",
+      "avatar": "addon_portrait_id_244",
+      "score": 61856594,
+      "rank": 28,
+      "is_guild_member": true,
+      "profile_text": "sin piedad ",
+      "city_name": "Udon",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 46408,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "urbanisation",
+            "name": "Urbanización",
+            "descriptionTemplate": "Ten %s/%s expansiones",
+            "descriptionCityTooltip": "Ten %s expansiones",
+            "currentLevel": {
+              "level": 4,
+              "progress": 208,
+              "requiredProgress": 150,
+              "obtainedAt": 1701954183,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 150,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "touchdown",
+            "name": "¡Touchdown!",
+            "descriptionTemplate": "Completa la serie de misiones principal del evento Forge Bowl.",
+            "descriptionCityTooltip": "Completa la serie de misiones principal del evento Forge Bowl.",
+            "currentLevel": {
+              "level": 1,
+              "progress": 1,
+              "requiredProgress": 1,
+              "obtainedAt": 1675700987,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 2,
+              "progress": 2,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "great_commander",
+            "name": "Gran comandante",
+            "descriptionTemplate": "Gana %s/%s batallas en la Arena PvP",
+            "descriptionCityTooltip": "Gana %s batallas en la Arena PvP",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1622,
+              "requiredProgress": 1500,
+              "obtainedAt": 1719230701,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 1500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "OceanicFuture",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 848958066,
+      "name": "Tiger.jr",
+      "avatar": "addon_portrait_id_halloween_harlequin",
+      "score": 53558296,
+      "rank": 29,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de mairaneño",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 30338,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "FutureEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 848943231,
+      "name": "Demian Abraxas",
+      "avatar": "addon_portrait_id_castle_system_lothar",
+      "score": 45908034,
+      "rank": 30,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Cameloth",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 31204,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "SpaceAgeMars",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849003740,
+      "name": "ASTEROIDE",
+      "avatar": "portrait_id_173",
+      "score": 37891175,
+      "rank": 31,
+      "is_guild_member": true,
+      "profile_text": "Listo para crecer con prosperidad",
+      "city_name": "Ciudad de ASTEROIDE",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 20299,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 3,
+              "progress": 14743,
+              "requiredProgress": 1000,
+              "obtainedAt": 1618958995,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "one_for_the_piggy_bank",
+            "name": "Uno para la alcancía",
+            "descriptionTemplate": "Recolecta %s/%s monedas",
+            "descriptionCityTooltip": "Recolecta %s monedas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 3609608378,
+              "requiredProgress": 500000000,
+              "obtainedAt": 1662247762,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 500000000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "dont_call_me_junior",
+            "name": "¡No me llames novato!",
+            "descriptionTemplate": "Completa %s/%s mapas de expedición.",
+            "descriptionCityTooltip": "Completa %s mapas de expedición.",
+            "currentLevel": {
+              "level": 4,
+              "progress": 298,
+              "requiredProgress": 150,
+              "obtainedAt": 1678638345,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 150,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "ArcticFuture",
+      "title": "Promesa Ascendente",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849025031,
+      "name": "lili78",
+      "avatar": "portrait_id_208",
+      "score": 31036282,
+      "rank": 32,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de lili78",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 15178,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "ArcticFuture",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849534976,
+      "name": "Vlad Tepez",
+      "avatar": "portrait_id_200",
+      "score": 21560197,
+      "rank": 33,
+      "is_guild_member": true,
+      "profile_text": "👹",
+      "city_name": " TioRino 🏴‍☠️",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 23924,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "medal_of_honor",
+            "name": "Medalla de Honor",
+            "descriptionTemplate": "Gana %s/%s batallas",
+            "descriptionCityTooltip": "Gana %s batallas",
+            "currentLevel": {
+              "level": 3,
+              "progress": 18732,
+              "requiredProgress": 1000,
+              "obtainedAt": 1703248482,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "dont_call_me_junior",
+            "name": "¡No me llames novato!",
+            "descriptionTemplate": "Completa %s/%s mapas de expedición.",
+            "descriptionCityTooltip": "Completa %s mapas de expedición.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 140,
+              "requiredProgress": 50,
+              "obtainedAt": 1707584437,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 150,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "one_of_many_faces",
+            "name": "Una de muchas caras",
+            "descriptionTemplate": "Siéntate en %s/%s tabernas de tus amigos.",
+            "descriptionCityTooltip": "Siéntate en %s tabernas de tus amigos.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 18910,
+              "requiredProgress": 7500,
+              "obtainedAt": 1707394735,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 20000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "ModernEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 973751,
+      "name": "PIRATA COFRESI",
+      "avatar": "addon_portrait_id_castle_system_lothar",
+      "score": 19921845,
+      "rank": 34,
+      "is_guild_member": true,
+      "profile_text": "",
+      "city_name": "Caribe",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 16686,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "how_pretty",
+            "name": "¡Qué preciosidad!",
+            "descriptionTemplate": "Construye %s/%s Decoraciones",
+            "descriptionCityTooltip": "Construye %s decoraciones",
+            "currentLevel": {
+              "level": 3,
+              "progress": 251,
+              "requiredProgress": 250,
+              "obtainedAt": 1681563211,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 500,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "happy_day",
+            "name": "¡Buen día!",
+            "descriptionTemplate": "Construye %s/%s Edificios Culturales",
+            "descriptionCityTooltip": "Construye %s edificios culturales",
+            "currentLevel": {
+              "level": 1,
+              "progress": 24,
+              "requiredProgress": 5,
+              "obtainedAt": 1617723519,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 2,
+              "progress": 25,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "good_yield",
+            "name": "Buena producción",
+            "descriptionTemplate": "Consigue una recompensa semanal %s/%s veces participando en Arena PvP",
+            "descriptionCityTooltip": "Consigue una recompensa semanal %s veces participando en Arena PvP",
+            "currentLevel": {
+              "level": 4,
+              "progress": 26,
+              "requiredProgress": 25,
+              "obtainedAt": 1689570020,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 25,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "OceanicFuture",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 512545,
+      "name": "Mente Maestra",
+      "avatar": "portrait_id_16",
+      "score": 17706240,
+      "rank": 35,
+      "is_guild_member": true,
+      "profile_text": "14 Nov 2023",
+      "city_name": "Mente Maestra  ",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 12291,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "FutureEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 1222722,
+      "name": "froyli",
+      "avatar": "addon_portrait_id_sum24_1",
+      "score": 13010935,
+      "rank": 36,
+      "is_guild_member": true,
+      "profile_text": "👠👠 I'm a hired murderer👠👠03/01/21",
+      "city_name": "my heart is 💔",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 35087,
+      "has_great_building": true,
+      "is_active": true,
+      "topAchievements": [
+        {
+          "slot": 2,
+          "achievement": {
+            "id": "purple_heart",
+            "name": "Corazón púrpura",
+            "descriptionTemplate": "Pierde %s/%s batallas",
+            "descriptionCityTooltip": "Pierde %s batallas",
+            "currentLevel": {
+              "level": 4,
+              "progress": 1069,
+              "requiredProgress": 550,
+              "obtainedAt": 1643148282,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 550,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 1,
+          "achievement": {
+            "id": "billy_the_kid",
+            "name": "El niño Billy",
+            "descriptionTemplate": "Saquea %s/%s edificios",
+            "descriptionCityTooltip": "Saquea %s edificios",
+            "currentLevel": {
+              "level": 4,
+              "progress": 5355,
+              "requiredProgress": 3000,
+              "obtainedAt": 1643656023,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 5,
+              "progress": 3000,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        },
+        {
+          "slot": 3,
+          "achievement": {
+            "id": "very_dangerous_i_go_first",
+            "name": "Muy peligroso... Iré primero.",
+            "descriptionTemplate": "Termina el cuarto nivel de dificultad de la expedición %s/%s veces.",
+            "descriptionCityTooltip": "Termina el cuarto nivel de dificultad de la expedición %s veces.",
+            "currentLevel": {
+              "level": 3,
+              "progress": 31,
+              "requiredProgress": 20,
+              "obtainedAt": 1657251713,
+              "__class__": "AchievementLevel"
+            },
+            "nextLevel": {
+              "level": 3,
+              "progress": 50,
+              "__class__": "AchievementLevel"
+            },
+            "__class__": "UpgradableAchievement"
+          },
+          "__class__": "TopAchievement"
+        }
+      ],
+      "era": "ColonialAge",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849386050,
+      "name": "Nurbanu Sultan",
+      "avatar": "portrait_id_77",
+      "score": 4542222,
+      "rank": 37,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de Ronin06",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 7382,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "ProgressiveEra",
+      "title": "",
+      "__class__": "ClanMember"
+    },
+    {
+      "player_id": 849314868,
+      "name": "VicReyes 516",
+      "avatar": "portrait_id_76",
+      "score": 1127469,
+      "rank": 38,
+      "is_guild_member": true,
+      "profile_text": "Texto de perfil por defecto para el jugador que aún no lo ha personalizado",
+      "city_name": "Ciudad de VicReyes 516",
+      "clan_id": 838,
+      "clan": {
+        "id": 838,
+        "name": "Praetorian’s",
+        "membersNum": 38,
+        "flag": "flag_3",
+        "description": "",
+        "settings": {
+          "join": "invitation",
+          "__class__": "ClanSettings"
+        },
+        "treasury_id": 114862,
+        "__class__": "Clan"
+      },
+      "won_battles": 1371,
+      "has_great_building": true,
+      "is_active": true,
+      "era": "ModernEra",
+      "title": "",
+      "__class__": "ClanMember"
+    }
+  ],
+  "flags_bought": [],
+  "level_configs": [
+    {
+      "medals": 10,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 60,
+      "support_bonus": 10,
+      "prestige_bonus": 25,
+      "recruitment_acceleration": 2,
+      "medals": 10,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 450,
+      "support_bonus": 30,
+      "prestige_bonus": 50,
+      "recruitment_acceleration": 2,
+      "construction_reduction": 1,
+      "medals": 10,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1500,
+      "support_bonus": 50,
+      "prestige_bonus": 75,
+      "recruitment_acceleration": 2,
+      "daily_strategypoint_bonus": 1,
+      "construction_reduction": 1,
+      "medals": 20,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3560,
+      "support_bonus": 80,
+      "prestige_bonus": 100,
+      "recruitment_acceleration": 4,
+      "daily_strategypoint_bonus": 1,
+      "construction_reduction": 1,
+      "medals": 30,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 7030,
+      "support_bonus": 110,
+      "prestige_bonus": 125,
+      "recruitment_acceleration": 4,
+      "daily_strategypoint_bonus": 1,
+      "construction_reduction": 2,
+      "medals": 40,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 12340,
+      "support_bonus": 150,
+      "prestige_bonus": 150,
+      "recruitment_acceleration": 4,
+      "daily_strategypoint_bonus": 2,
+      "construction_reduction": 2,
+      "medals": 60,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 19960,
+      "support_bonus": 190,
+      "prestige_bonus": 175,
+      "recruitment_acceleration": 6,
+      "daily_strategypoint_bonus": 2,
+      "construction_reduction": 2,
+      "medals": 80,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 30390,
+      "support_bonus": 230,
+      "prestige_bonus": 200,
+      "recruitment_acceleration": 6,
+      "daily_strategypoint_bonus": 2,
+      "construction_reduction": 3,
+      "medals": 100,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 44180,
+      "support_bonus": 280,
+      "prestige_bonus": 225,
+      "recruitment_acceleration": 6,
+      "daily_strategypoint_bonus": 3,
+      "construction_reduction": 3,
+      "medals": 140,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 61920,
+      "support_bonus": 340,
+      "prestige_bonus": 250,
+      "recruitment_acceleration": 8,
+      "daily_strategypoint_bonus": 3,
+      "construction_reduction": 3,
+      "medals": 170,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 84230,
+      "support_bonus": 400,
+      "prestige_bonus": 275,
+      "recruitment_acceleration": 8,
+      "daily_strategypoint_bonus": 3,
+      "construction_reduction": 4,
+      "medals": 210,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 111790,
+      "support_bonus": 470,
+      "prestige_bonus": 300,
+      "recruitment_acceleration": 8,
+      "daily_strategypoint_bonus": 4,
+      "construction_reduction": 4,
+      "medals": 260,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 145320,
+      "support_bonus": 540,
+      "prestige_bonus": 325,
+      "recruitment_acceleration": 10,
+      "daily_strategypoint_bonus": 4,
+      "construction_reduction": 4,
+      "medals": 310,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 185570,
+      "support_bonus": 610,
+      "prestige_bonus": 350,
+      "recruitment_acceleration": 10,
+      "daily_strategypoint_bonus": 4,
+      "construction_reduction": 5,
+      "medals": 380,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 233350,
+      "support_bonus": 690,
+      "prestige_bonus": 375,
+      "recruitment_acceleration": 10,
+      "daily_strategypoint_bonus": 5,
+      "construction_reduction": 5,
+      "medals": 440,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 289500,
+      "support_bonus": 770,
+      "prestige_bonus": 400,
+      "recruitment_acceleration": 12,
+      "daily_strategypoint_bonus": 5,
+      "construction_reduction": 5,
+      "medals": 520,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 354920,
+      "support_bonus": 860,
+      "prestige_bonus": 425,
+      "recruitment_acceleration": 12,
+      "daily_strategypoint_bonus": 5,
+      "construction_reduction": 6,
+      "medals": 600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 430550,
+      "support_bonus": 960,
+      "prestige_bonus": 450,
+      "recruitment_acceleration": 12,
+      "daily_strategypoint_bonus": 6,
+      "construction_reduction": 6,
+      "medals": 700,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 517380,
+      "support_bonus": 1060,
+      "prestige_bonus": 475,
+      "recruitment_acceleration": 14,
+      "daily_strategypoint_bonus": 6,
+      "construction_reduction": 6,
+      "medals": 800,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 616430,
+      "support_bonus": 1160,
+      "prestige_bonus": 500,
+      "recruitment_acceleration": 14,
+      "daily_strategypoint_bonus": 6,
+      "construction_reduction": 7,
+      "medals": 910,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 728790,
+      "support_bonus": 1270,
+      "prestige_bonus": 525,
+      "recruitment_acceleration": 14,
+      "daily_strategypoint_bonus": 7,
+      "construction_reduction": 7,
+      "medals": 1030,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 855590,
+      "support_bonus": 1380,
+      "prestige_bonus": 550,
+      "recruitment_acceleration": 16,
+      "daily_strategypoint_bonus": 7,
+      "construction_reduction": 7,
+      "medals": 1160,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 998010,
+      "support_bonus": 1500,
+      "prestige_bonus": 575,
+      "recruitment_acceleration": 16,
+      "daily_strategypoint_bonus": 7,
+      "construction_reduction": 8,
+      "medals": 1300,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1157270,
+      "support_bonus": 1620,
+      "prestige_bonus": 600,
+      "recruitment_acceleration": 16,
+      "daily_strategypoint_bonus": 8,
+      "construction_reduction": 8,
+      "medals": 1500,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1334650,
+      "support_bonus": 1750,
+      "prestige_bonus": 625,
+      "recruitment_acceleration": 18,
+      "daily_strategypoint_bonus": 8,
+      "construction_reduction": 8,
+      "medals": 1600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1531470,
+      "support_bonus": 1880,
+      "prestige_bonus": 650,
+      "recruitment_acceleration": 18,
+      "daily_strategypoint_bonus": 8,
+      "construction_reduction": 9,
+      "medals": 1800,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1749100,
+      "support_bonus": 2020,
+      "prestige_bonus": 675,
+      "recruitment_acceleration": 18,
+      "daily_strategypoint_bonus": 9,
+      "construction_reduction": 9,
+      "medals": 2000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 1988970,
+      "support_bonus": 2160,
+      "prestige_bonus": 700,
+      "recruitment_acceleration": 20,
+      "daily_strategypoint_bonus": 9,
+      "construction_reduction": 9,
+      "medals": 2200,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 2252560,
+      "support_bonus": 2310,
+      "prestige_bonus": 725,
+      "recruitment_acceleration": 20,
+      "daily_strategypoint_bonus": 9,
+      "construction_reduction": 10,
+      "medals": 2400,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 2541380,
+      "support_bonus": 2460,
+      "prestige_bonus": 750,
+      "recruitment_acceleration": 20,
+      "daily_strategypoint_bonus": 10,
+      "construction_reduction": 10,
+      "medals": 2600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 2857020,
+      "support_bonus": 2620,
+      "prestige_bonus": 775,
+      "recruitment_acceleration": 22,
+      "daily_strategypoint_bonus": 10,
+      "construction_reduction": 10,
+      "medals": 2900,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3201100,
+      "support_bonus": 2780,
+      "prestige_bonus": 800,
+      "recruitment_acceleration": 22,
+      "daily_strategypoint_bonus": 10,
+      "construction_reduction": 11,
+      "medals": 3100,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3575300,
+      "support_bonus": 2940,
+      "prestige_bonus": 825,
+      "recruitment_acceleration": 22,
+      "daily_strategypoint_bonus": 11,
+      "construction_reduction": 11,
+      "medals": 3400,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 3981350,
+      "support_bonus": 3110,
+      "prestige_bonus": 850,
+      "recruitment_acceleration": 24,
+      "daily_strategypoint_bonus": 11,
+      "construction_reduction": 11,
+      "medals": 3700,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 4421030,
+      "support_bonus": 3290,
+      "prestige_bonus": 875,
+      "recruitment_acceleration": 24,
+      "daily_strategypoint_bonus": 11,
+      "construction_reduction": 12,
+      "medals": 4000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 4896180,
+      "support_bonus": 3470,
+      "prestige_bonus": 900,
+      "recruitment_acceleration": 24,
+      "daily_strategypoint_bonus": 12,
+      "construction_reduction": 12,
+      "medals": 4300,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 5408680,
+      "support_bonus": 3660,
+      "prestige_bonus": 925,
+      "recruitment_acceleration": 26,
+      "daily_strategypoint_bonus": 12,
+      "construction_reduction": 12,
+      "medals": 4700,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 5960470,
+      "support_bonus": 3850,
+      "prestige_bonus": 950,
+      "recruitment_acceleration": 26,
+      "daily_strategypoint_bonus": 12,
+      "construction_reduction": 13,
+      "medals": 5000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 6553550,
+      "support_bonus": 4040,
+      "prestige_bonus": 975,
+      "recruitment_acceleration": 26,
+      "daily_strategypoint_bonus": 13,
+      "construction_reduction": 13,
+      "medals": 5400,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 7189960,
+      "support_bonus": 4240,
+      "prestige_bonus": 1000,
+      "recruitment_acceleration": 28,
+      "daily_strategypoint_bonus": 13,
+      "construction_reduction": 13,
+      "medals": 5800,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 7871800,
+      "support_bonus": 4440,
+      "prestige_bonus": 1025,
+      "recruitment_acceleration": 28,
+      "daily_strategypoint_bonus": 13,
+      "construction_reduction": 14,
+      "medals": 6200,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 8601230,
+      "support_bonus": 4650,
+      "prestige_bonus": 1050,
+      "recruitment_acceleration": 28,
+      "daily_strategypoint_bonus": 14,
+      "construction_reduction": 14,
+      "medals": 6600,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 9380450,
+      "support_bonus": 4870,
+      "prestige_bonus": 1075,
+      "recruitment_acceleration": 30,
+      "daily_strategypoint_bonus": 14,
+      "construction_reduction": 14,
+      "medals": 7100,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 10211720,
+      "support_bonus": 5090,
+      "prestige_bonus": 1100,
+      "recruitment_acceleration": 30,
+      "daily_strategypoint_bonus": 14,
+      "construction_reduction": 15,
+      "medals": 7500,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 11097360,
+      "support_bonus": 5310,
+      "prestige_bonus": 1125,
+      "recruitment_acceleration": 30,
+      "daily_strategypoint_bonus": 15,
+      "construction_reduction": 15,
+      "medals": 8000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 12039740,
+      "support_bonus": 5540,
+      "prestige_bonus": 1150,
+      "recruitment_acceleration": 32,
+      "daily_strategypoint_bonus": 15,
+      "construction_reduction": 15,
+      "medals": 9000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 13041280,
+      "support_bonus": 5770,
+      "prestige_bonus": 1175,
+      "recruitment_acceleration": 32,
+      "daily_strategypoint_bonus": 15,
+      "construction_reduction": 16,
+      "medals": 9000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 14104460,
+      "support_bonus": 6010,
+      "prestige_bonus": 1200,
+      "recruitment_acceleration": 32,
+      "daily_strategypoint_bonus": 16,
+      "construction_reduction": 16,
+      "medals": 10000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 15231810,
+      "support_bonus": 6250,
+      "prestige_bonus": 1225,
+      "recruitment_acceleration": 34,
+      "daily_strategypoint_bonus": 16,
+      "construction_reduction": 16,
+      "medals": 10000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 16425930,
+      "support_bonus": 6500,
+      "prestige_bonus": 1250,
+      "recruitment_acceleration": 34,
+      "daily_strategypoint_bonus": 16,
+      "construction_reduction": 17,
+      "medals": 11000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 17689460,
+      "support_bonus": 6690,
+      "prestige_bonus": 1275,
+      "recruitment_acceleration": 34,
+      "daily_strategypoint_bonus": 17,
+      "construction_reduction": 17,
+      "medals": 11000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 19025100,
+      "support_bonus": 6880,
+      "prestige_bonus": 1300,
+      "recruitment_acceleration": 36,
+      "daily_strategypoint_bonus": 17,
+      "construction_reduction": 17,
+      "medals": 12000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 20435610,
+      "support_bonus": 7060,
+      "prestige_bonus": 1325,
+      "recruitment_acceleration": 36,
+      "daily_strategypoint_bonus": 17,
+      "construction_reduction": 18,
+      "medals": 13000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 21923800,
+      "support_bonus": 7230,
+      "prestige_bonus": 1350,
+      "recruitment_acceleration": 36,
+      "daily_strategypoint_bonus": 18,
+      "construction_reduction": 18,
+      "medals": 14000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 23492540,
+      "support_bonus": 7400,
+      "prestige_bonus": 1375,
+      "recruitment_acceleration": 38,
+      "daily_strategypoint_bonus": 18,
+      "construction_reduction": 18,
+      "medals": 14000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 25144750,
+      "support_bonus": 7550,
+      "prestige_bonus": 1400,
+      "recruitment_acceleration": 38,
+      "daily_strategypoint_bonus": 18,
+      "construction_reduction": 19,
+      "medals": 15000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 26883410,
+      "support_bonus": 7690,
+      "prestige_bonus": 1425,
+      "recruitment_acceleration": 38,
+      "daily_strategypoint_bonus": 19,
+      "construction_reduction": 19,
+      "medals": 16000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 28711570,
+      "support_bonus": 7830,
+      "prestige_bonus": 1450,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 19,
+      "construction_reduction": 19,
+      "medals": 17000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 30632310,
+      "support_bonus": 7960,
+      "prestige_bonus": 1475,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 19,
+      "construction_reduction": 20,
+      "medals": 17000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 32648790,
+      "support_bonus": 8090,
+      "prestige_bonus": 1500,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 20,
+      "medals": 18000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 34764220,
+      "support_bonus": 8210,
+      "prestige_bonus": 1525,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 21,
+      "medals": 19000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 36981860,
+      "support_bonus": 8320,
+      "prestige_bonus": 1550,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 22,
+      "medals": 20000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 39305040,
+      "support_bonus": 8430,
+      "prestige_bonus": 1575,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 23,
+      "medals": 21000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 41737130,
+      "support_bonus": 8540,
+      "prestige_bonus": 1600,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 24,
+      "medals": 22000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 44281580,
+      "support_bonus": 8640,
+      "prestige_bonus": 1625,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 23000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 46941880,
+      "support_bonus": 8740,
+      "prestige_bonus": 1650,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 24000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 49721580,
+      "support_bonus": 8840,
+      "prestige_bonus": 1675,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 52624300,
+      "support_bonus": 8930,
+      "prestige_bonus": 1700,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 55653710,
+      "support_bonus": 9020,
+      "prestige_bonus": 1725,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 58813530,
+      "support_bonus": 9110,
+      "prestige_bonus": 1750,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 62107550,
+      "support_bonus": 9190,
+      "prestige_bonus": 1775,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 65539620,
+      "support_bonus": 9270,
+      "prestige_bonus": 1800,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 69113650,
+      "support_bonus": 9350,
+      "prestige_bonus": 1825,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 72833590,
+      "support_bonus": 9430,
+      "prestige_bonus": 1850,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 30000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 76703470,
+      "support_bonus": 9510,
+      "prestige_bonus": 1875,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 80727380,
+      "support_bonus": 9580,
+      "prestige_bonus": 1900,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 84909450,
+      "support_bonus": 9650,
+      "prestige_bonus": 1925,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 89253880,
+      "support_bonus": 9720,
+      "prestige_bonus": 1950,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 93764930,
+      "support_bonus": 9790,
+      "prestige_bonus": 1975,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 98446920,
+      "support_bonus": 9850,
+      "prestige_bonus": 2000,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 103304230,
+      "support_bonus": 9920,
+      "prestige_bonus": 2025,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 40000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 108341300,
+      "support_bonus": 9980,
+      "prestige_bonus": 2050,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 113562630,
+      "support_bonus": 10040,
+      "prestige_bonus": 2075,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 118972780,
+      "support_bonus": 10110,
+      "prestige_bonus": 2100,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 124576360,
+      "support_bonus": 10160,
+      "prestige_bonus": 2125,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 130378060,
+      "support_bonus": 10220,
+      "prestige_bonus": 2150,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 136382610,
+      "support_bonus": 10280,
+      "prestige_bonus": 2175,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 50000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 142594820,
+      "support_bonus": 10340,
+      "prestige_bonus": 2200,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 60000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 149019550,
+      "support_bonus": 10390,
+      "prestige_bonus": 2225,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 155661720,
+      "support_bonus": 10440,
+      "prestige_bonus": 2250,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 162526310,
+      "support_bonus": 10500,
+      "prestige_bonus": 2275,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 169618360,
+      "support_bonus": 10550,
+      "prestige_bonus": 2300,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 176942980,
+      "support_bonus": 10600,
+      "prestige_bonus": 2325,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 184505340,
+      "support_bonus": 10650,
+      "prestige_bonus": 2350,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 192310660,
+      "support_bonus": 10700,
+      "prestige_bonus": 2375,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 200364230,
+      "support_bonus": 10750,
+      "prestige_bonus": 2400,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 208671400,
+      "support_bonus": 10790,
+      "prestige_bonus": 2425,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 217237580,
+      "support_bonus": 10840,
+      "prestige_bonus": 2450,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 226068250,
+      "support_bonus": 10890,
+      "prestige_bonus": 2475,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    },
+    {
+      "points": 235168940,
+      "support_bonus": 10930,
+      "prestige_bonus": 2500,
+      "recruitment_acceleration": 40,
+      "daily_strategypoint_bonus": 20,
+      "construction_reduction": 25,
+      "medals": 100000,
+      "__class__": "ClanLevelConfig"
+    }
+  ],
+  "settings": {
+    "join": "invitation",
+    "__class__": "ClanSettings"
+  },
+  "treasury_id": 114862,
+  "trophies": {
+    "guild_championship_trophy_gold": 121,
+    "guild_championship_trophy_silver": 71,
+    "guild_championship_trophy_bronze": 18
+  },
+  "league": {
+    "id": "diamond",
+    "name": "Liga Diamante",
+    "rating": 1000,
+    "__class__": "GuildBattlegroundLeague"
+  },
+  "gbgStatistics": [
+    {
+      "leagueId": "diamond",
+      "participationCount": 63,
+      "wonCount": 1,
+      "__class__": "GuildBattlegroundStatistics"
+    },
+    {
+      "leagueId": "platinum",
+      "participationCount": 8,
+      "wonCount": 7,
+      "__class__": "GuildBattlegroundStatistics"
+    }
+  ],
+  "__class__": "Clan"
+}
